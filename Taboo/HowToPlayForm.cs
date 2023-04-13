@@ -16,5 +16,10 @@ namespace Taboo
         {
             InitializeComponent();
         }
+
+        private void HowToPlayForm_Load(object sender, EventArgs e)
+        {
+            richTextBox1.LoadFile("Proibidao.rtf");
+        }
     }
 }

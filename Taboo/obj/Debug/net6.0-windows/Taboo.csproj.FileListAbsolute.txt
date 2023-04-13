@@ -47,3 +47,4 @@ D:\Projetos\proibidao\Taboo\obj\Debug\net6.0-windows\refint\Taboo.dll
 D:\Projetos\proibidao\Taboo\obj\Debug\net6.0-windows\Taboo.pdb
 D:\Projetos\proibidao\Taboo\obj\Debug\net6.0-windows\Taboo.genruntimeconfig.cache
 D:\Projetos\proibidao\Taboo\obj\Debug\net6.0-windows\ref\Taboo.dll
+D:\Projetos\proibidao\Taboo\bin\Debug\net6.0-windows\Proibidao.rtf

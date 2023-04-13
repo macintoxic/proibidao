@@ -57,4 +57,42 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Proibidão
+
+4 participantes ou mais
+
+Os participantes devem se divir em 2 equipes que serão definidos como Time A e time B.
+
+Como jogar:
+Os jogadores definem qual equipe será o Time A e o Time B.
+O time A inicia a partida e deve definir qual jogador será o orador.
+
+O time B define uma pessoa para ser o fiscal da rodada.
+
+O time A deve clicar no botão "Iniciar Rodada" e após a contagem regressiva, vai começar exibir as cartas com 6 palavras. 
+O seu time deve adivinhar a primeira palavra da lista a partir das dicas dadas pelo orador do time. Nem uma palavra da lista pode ser dita e o fiscal do time deve observar a carta e verificar se nenhuma palavra proibida foi dita. 
+Caso o orador diga alguma palavra da carta, o fiscal deve gritar Proibidão e clicar no botão Proibidão para descartar a lista de palavras.
+
+Caso o time acerte a primeira palavra da lista, deve-se clicar no botão Correto para computar o ponto.
+Caso o orador decida que não quer usar a lista de palavras, ele pode clicar no botão "Próxima Carta" para descartar a carta atual e ir para a próxima.
+O time pode tentar adivinhar o maior número de cartas dentro de cada rodada que dura 60 segundos.
+
+Ao cada rodada, os times alternam se alternam entre fiscal e orador ate o fim do jogo.
+
+Vence o time que tiver mais pontos.
+
+Sobre as dicas:
+
+As dicas são palavras, frases ou detalhes sobre a palavra proibida, e devem ser dadas de acordo com as
+regras abaixo:
+- é proibido usar partes das palavras da lista, ou colocá-las em outro tempoverbal;
+- é proibido fazer gestos que indiquem a palavra proibida;
+- é proibido emitir sons que ajudem a identificar a palavra proibida;
+- é proibido utilizar expressões do tipo "semelhante a" ou "rima com";
+- é proibido utilizar siglas das palavras da lista.
+Quando um jogador estiver dando as dicas, sua equipe pode "chutar" quantas palavras quiserem, sem
+perder pontos pelas palavras erradas.
+</value>
+  </data>
 </root>

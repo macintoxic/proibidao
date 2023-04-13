@@ -34,9 +34,10 @@
             // 
             // btnNewGame
             // 
-            this.btnNewGame.Location = new System.Drawing.Point(103, 51);
+            this.btnNewGame.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btnNewGame.Location = new System.Drawing.Point(88, 43);
             this.btnNewGame.Name = "btnNewGame";
-            this.btnNewGame.Size = new System.Drawing.Size(101, 52);
+            this.btnNewGame.Size = new System.Drawing.Size(121, 68);
             this.btnNewGame.TabIndex = 0;
             this.btnNewGame.Text = "Nova Partida";
             this.btnNewGame.UseVisualStyleBackColor = true;
@@ -44,9 +45,10 @@
             // 
             // btnHowToPlay
             // 
-            this.btnHowToPlay.Location = new System.Drawing.Point(103, 121);
+            this.btnHowToPlay.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btnHowToPlay.Location = new System.Drawing.Point(88, 132);
             this.btnHowToPlay.Name = "btnHowToPlay";
-            this.btnHowToPlay.Size = new System.Drawing.Size(101, 52);
+            this.btnHowToPlay.Size = new System.Drawing.Size(121, 68);
             this.btnHowToPlay.TabIndex = 1;
             this.btnHowToPlay.Text = "Como Jogar";
             this.btnHowToPlay.UseVisualStyleBackColor = true;
@@ -64,7 +66,7 @@
             this.MinimizeBox = false;
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Taboo - Janela Principal";
+            this.Text = "Proibidão";
             this.ResumeLayout(false);
 
         }
