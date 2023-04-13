@@ -38,6 +38,7 @@ namespace Taboo
             btnRound.Enabled = true;
 
             SetButtons(tmrRoundTimer.Enabled);
+            new RoundEndForm().ShowDialog(this);
 
         }
 
@@ -57,14 +58,12 @@ namespace Taboo
             SetRich(_selectedCard);
 
             SetButtons(tmrRoundTimer.Enabled);
-
-
         }
 
         private void SetButtons(bool enabled)
         {
             btnPass.Enabled = enabled;
-            //btnPauseContinue.Enabled = enabled;
+            
             btnScore.Enabled = enabled;
             btnTaboo.Enabled = enabled;
         }
@@ -166,11 +165,6 @@ namespace Taboo
             SetRich(_selectedCard);
             lblDescart.Text = $@"Descarte:  {_disCards.Count}";
             lblDeck.Text = $@"Deck:  {_queueCards.Count}";
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
