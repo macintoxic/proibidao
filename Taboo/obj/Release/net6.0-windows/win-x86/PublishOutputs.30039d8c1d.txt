@@ -1,0 +1,10 @@
+c:\tmp\taboo\Taboo.pdb
+c:\tmp\taboo\cards.json
+c:\tmp\taboo\cards1.json
+c:\tmp\taboo\Proibidao.rtf
+c:\tmp\taboo\D3DCompiler_47_cor3.dll
+c:\tmp\taboo\PenImc_cor3.dll
+c:\tmp\taboo\PresentationNative_cor3.dll
+c:\tmp\taboo\vcruntime140_cor3.dll
+c:\tmp\taboo\wpfgfx_cor3.dll
+c:\tmp\taboo\Taboo.exe

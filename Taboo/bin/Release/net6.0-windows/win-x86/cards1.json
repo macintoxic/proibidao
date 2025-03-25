@@ -1,0 +1,3986 @@
+[
+  {
+    "ProibidaoWord": "ALGOD\u00c3O DOCE",
+    "ProibidaoWords": [ "Nuvem", "Fofo", "Rosa", "A\u00e7\u00facar", "Palito" ]
+  },
+  {
+    "ProibidaoWord": "COLAR",
+    "ProibidaoWords": [ "P\u00e9rolas", "J\u00f3ia", "Bracelete", "Garganta", "Usar" ]
+  },
+  {
+    "ProibidaoWord": "MARIA-FUMA\u00c7A",
+    "ProibidaoWords": [ "Trem", "Vapor", "Trilho", "Primeiro", "Locomotiva" ]
+  },
+  {
+    "ProibidaoWord": "P\u00c3O",
+    "ProibidaoWords": [ "De forma", "Torrada", "Sandu\u00edche", "Franc\u00eas", "Padaria" ]
+  },
+  {
+    "ProibidaoWord": "VIETN\u00c3",
+    "ProibidaoWords": [ "Guerra", "\u00c1sia", "Estados Unidos", "Nixon", "Saigon" ]
+  },
+  {
+    "ProibidaoWord": "ABAFADO",
+    "ProibidaoWords": [ "Calor", "Suor", "Transpirar", "Quente", "Temperatura" ]
+  },
+  {
+    "ProibidaoWord": "VITAMINA C",
+    "ProibidaoWords": [ "Sistema Imunol\u00f3gico", "Resfriado", "Laranja", "C\u00edtrico", "P\u00edlulas" ]
+  },
+  {
+    "ProibidaoWord": "BANHO",
+    "ProibidaoWords": [ "Banheira", "\u00c1gua", "Limpo", "Chuveiro", "Sabonete" ]
+  },
+  {
+    "ProibidaoWord": "GRAVATA",
+    "ProibidaoWords": [ "Usar", "Homem", "Terno", "Camisa", "Colarinho" ]
+  },
+  {
+    "ProibidaoWord": "CRIAN\u00c7A",
+    "ProibidaoWords": [ "Menino (a)", "Brinquedos", "Beb\u00ea", "Infantil", "Moleque" ]
+  },
+  {
+    "ProibidaoWord": "LAREIRA",
+    "ProibidaoWords": [ "Lenha", "Chamin\u00e9", "Tijolo", "Queimar", "Madeira" ]
+  },
+  {
+    "ProibidaoWord": "S\u00c3O BERNARDO",
+    "ProibidaoWords": [ "Cachorro", "Salvar", "Alpes", "Conhaque", "Neve" ]
+  },
+  {
+    "ProibidaoWord": "PONTE",
+    "ProibidaoWords": [ "Rio-Niter\u00f3i", "da Amizade", "\u00c1gua", "Atravessar", "Rio" ]
+  },
+  {
+    "ProibidaoWord": "CLAUSTROFOBIA",
+    "ProibidaoWords": [ "Medo", "Fechado", "Sentimento", "Preso", "P\u00e2nico" ]
+  },
+  {
+    "ProibidaoWord": "JOGO DE T\u00caNIS",
+    "ProibidaoWords": [ "Raquete", "Quadra", "Bola", "GustavoKuerten/Guga", "Rede" ]
+  },
+  {
+    "ProibidaoWord": "EST\u00c1TUA",
+    "ProibidaoWords": [ "Parada", "Mover", "Mexer", "M\u00e1rmore", "Ficar" ]
+  },
+  {
+    "ProibidaoWord": "P\u00d4QUER",
+    "ProibidaoWords": [ "Carta", "Baralho", "Ficha", "Jogo", "Apostar" ]
+  },
+  {
+    "ProibidaoWord": "ENVELOPE",
+    "ProibidaoWords": [ "Correspond\u00eancia", "Selo", "Endere\u00e7o", "Carta", "Fechar" ]
+  },
+  {
+    "ProibidaoWord": "HAR\u00c9M",
+    "ProibidaoWords": [ "Mulheres", "Sult\u00e3o", "Muitos", "Sheik", "Esposas" ]
+  },
+  {
+    "ProibidaoWord": "ESPINAFRE",
+    "ProibidaoWords": [ "Popeye", "Verde", "Comer", "Verdura", "Forte" ]
+  },
+  {
+    "ProibidaoWord": "PONTO DE INTERROGA\u00c7\u00c3O",
+    "ProibidaoWords": [ "Pontua\u00e7\u00e3o", "Senten\u00e7a", "Exclama\u00e7\u00e3o", "Ponto", "Pergunta" ]
+  },
+  {
+    "ProibidaoWord": "MANGUEIRA",
+    "ProibidaoWords": [ "\u00c1gua", "Borracha", "Manga", "Escola de Samba", "Irrigador" ]
+  },
+  {
+    "ProibidaoWord": "INFINITO",
+    "ProibidaoWords": [ "Sem limite", "Eternidade", "Medida", "Sempre", "Ilimitado" ]
+  },
+  {
+    "ProibidaoWord": "GELADEIRA",
+    "ProibidaoWords": [ "Refrigerador", "Freezer", "Frio", "Comida", "Assaltar" ]
+  },
+  {
+    "ProibidaoWord": "CARROSSEL",
+    "ProibidaoWords": [ "Girar", "Divers\u00e3o", "Parque", "Andar", "Cavalo" ]
+  },
+  {
+    "ProibidaoWord": "DICION\u00c1RIO",
+    "ProibidaoWords": [ "Livro", "Palavras", "Defini\u00e7\u00f5es", "Aur\u00e9lio", "Significado" ]
+  },
+  {
+    "ProibidaoWord": "COMETA",
+    "ProibidaoWords": [ "Estrela", "Astro", "C\u00e9u", "Halley", "Cauda" ]
+  },
+  {
+    "ProibidaoWord": "INTROMETIDO",
+    "ProibidaoWords": [ "Abelhudo", "Intrometer", "Curioso", "Fofoca", "Neg\u00f3cios" ]
+  },
+  {
+    "ProibidaoWord": "PICHE",
+    "ProibidaoWords": [ "Rua", "Jogar", "Asfalto", "Preto", "Grudar" ]
+  },
+  {
+    "ProibidaoWord": "MOTOR",
+    "ProibidaoWords": [ "Combust\u00edvel", "Carro", "Ve\u00edculo", "Trem", "Cap\u00f4" ]
+  },
+  {
+    "ProibidaoWord": "FARELO",
+    "ProibidaoWords": [ "Gr\u00e3o", "Cereal", "Aveia", "Fibra", "Regular" ]
+  },
+  {
+    "ProibidaoWord": "ESTR\u00c9IA",
+    "ProibidaoWords": [ "Cinema", "Inaugura\u00e7\u00e3o", "Primeiro", "P\u00fablico", "In\u00edcio" ]
+  },
+  {
+    "ProibidaoWord": "DURO",
+    "ProibidaoWords": [ "R\u00edgido", "Cad\u00e1ver", "Morto", "Mole", "S\u00f3lido" ]
+  },
+  {
+    "ProibidaoWord": "TEIA",
+    "ProibidaoWords": [ "Aranha", "Armadilha", "Suspender", "Fio", "Inseto" ]
+  },
+  {
+    "ProibidaoWord": "FORA",
+    "ProibidaoWords": [ "Dentro", "Porta", "Sair", "Deixar", "Ir" ]
+  },
+  {
+    "ProibidaoWord": "ESPANTALHO",
+    "ProibidaoWords": [ "Palha", "O m\u00e1gico de Oz", "Jardim", "Campo", "P\u00e1ssaro" ]
+  },
+  {
+    "ProibidaoWord": "CRAVO",
+    "ProibidaoWords": [ "Flor", "Rosa", "Lapela", "Branco", "Buqu\u00ea" ]
+  },
+  {
+    "ProibidaoWord": "ELEFANTE",
+    "ProibidaoWords": [ "Animal", "\u00c1frica", "Tromba", "Marfim", "Presa" ]
+  },
+  {
+    "ProibidaoWord": "CLEPTOMAN\u00cdACO",
+    "ProibidaoWords": [ "Roubar", "Ladr\u00e3o", "M\u00e3o-leve", "Pegar", "Incontrol\u00e1vel" ]
+  },
+  {
+    "ProibidaoWord": "GIRASSOL",
+    "ProibidaoWords": [ "Amarelo", "Semente", "Planta", "Flor", "Papagaio" ]
+  },
+  {
+    "ProibidaoWord": "BATOM",
+    "ProibidaoWords": [ "Boca", "Maquiagem", "Cosm\u00e9tico", "Vermelho", "Tubo" ]
+  },
+  {
+    "ProibidaoWord": "LIVRO",
+    "ProibidaoWords": [ "Estudar", "P\u00e1ginas", "Romance", "Livraria", "Ler" ]
+  },
+  {
+    "ProibidaoWord": "CHOCOLATE",
+    "ProibidaoWords": [ "Cacau", "Leite", "Marrom", "Doce", "Ovo de p\u00e1scoa" ]
+  },
+  {
+    "ProibidaoWord": "RODEIO",
+    "ProibidaoWords": [ "Pe\u00e3o", "Cavalo", "Boi", "Caub\u00f3i", "Competir" ]
+  },
+  {
+    "ProibidaoWord": "LASANHA",
+    "ProibidaoWords": [ "Italiana", "Macarr\u00e3o", "Refei\u00e7\u00e3o", "Comer", "Camada" ]
+  },
+  {
+    "ProibidaoWord": "TRAVESSEIRO",
+    "ProibidaoWords": [ "Cama", "Cabe\u00e7a", "Dormir", "Pena", "Apoiar" ]
+  },
+  {
+    "ProibidaoWord": "LEN\u00c7O DE PAPEL",
+    "ProibidaoWords": [ "Papel", "Nariz", "Espirro", "Kleenex", "Len\u00e7o" ]
+  },
+  {
+    "ProibidaoWord": "VAMPIRO",
+    "ProibidaoWords": [ "Transilv\u00e2nia", "Dr\u00e1cula", "Sangue", "Caix\u00e3o", "Pesco\u00e7o" ]
+  },
+  {
+    "ProibidaoWord": "DENTE CANINO",
+    "ProibidaoWords": [ "Dente", "Mordida", "Dr\u00e1cula", "Vampiro", "Boca" ]
+  },
+  {
+    "ProibidaoWord": "MILION\u00c1RIO",
+    "ProibidaoWords": [ "Dinheiro", "Riqueza", "Rico", "Loteria", "D\u00f3lares" ]
+  },
+  {
+    "ProibidaoWord": "SUBMARINO",
+    "ProibidaoWords": [ "Sub\u00e1quatico", "Perisc\u00f3pio", "Amarelo", "Torpedo", "\u00c1gua" ]
+  },
+  {
+    "ProibidaoWord": "DENTISTA",
+    "ProibidaoWords": [ "Doutor", "Dente", "Obtura\u00e7\u00e3o", "Canal", "Motor" ]
+  },
+  {
+    "ProibidaoWord": "POMBO",
+    "ProibidaoWords": [ "Correio", "P\u00e1ssaro", "Parque", "Ave", "Est\u00e1tua" ]
+  },
+  {
+    "ProibidaoWord": "\u00d3PERA",
+    "ProibidaoWords": [ "Cantores", "Tenor", "Fantasma", "Palco", "Musical" ]
+  },
+  {
+    "ProibidaoWord": "EMPIRE STATE",
+    "ProibidaoWords": [ "Nova York", "King Kong", "Maior", "Mais alto", "Arranha-C\u00e9u" ]
+  },
+  {
+    "ProibidaoWord": "CART\u00c3O POSTAL",
+    "ProibidaoWords": [ "Correio", "Foto", "Selo", "F\u00e9rias", "Enviar" ]
+  },
+  {
+    "ProibidaoWord": "DEDO",
+    "ProibidaoWords": [ "Anelar", "Indicador", "M\u00e3o", "Polegar", "P\u00e9" ]
+  },
+  {
+    "ProibidaoWord": "HOTEL",
+    "ProibidaoWords": [ "Motel", "Quarto", "Check-in", "Dormir", "Estadia" ]
+  },
+  {
+    "ProibidaoWord": "TRIATLO",
+    "ProibidaoWords": [ "Nata\u00e7\u00e3o", "Corrida", "Ciclismo", "Esporte", "Tr\u00eas" ]
+  },
+  {
+    "ProibidaoWord": "VULC\u00c3O",
+    "ProibidaoWords": [ "Erup\u00e7\u00e3o", "Lava", "Cinzas", "Hava\u00ed", "Escorrer" ]
+  },
+  {
+    "ProibidaoWord": "BAILE",
+    "ProibidaoWords": [ "Dan\u00e7ar", "M\u00fasica", "Casal", "Namoro", "Vestido" ]
+  },
+  {
+    "ProibidaoWord": "GAR\u00c7OM",
+    "ProibidaoWords": [ "Restaurante", "Comida", "Pratos", "Refei\u00e7\u00e3o", "Mesas" ]
+  },
+  {
+    "ProibidaoWord": "CINTA",
+    "ProibidaoWords": [ "Mulher", "Suporte", "Lingerie", "Roupa", "Liga" ]
+  },
+  {
+    "ProibidaoWord": "JUKE BOX",
+    "ProibidaoWords": [ "M\u00fasica", "Escolher", "M\u00e1quina", "Disco", "Moeda" ]
+  },
+  {
+    "ProibidaoWord": "JACAR\u00c9",
+    "ProibidaoWords": [ "Rio", "Pantanal", "Crocodilo", "Dente", "Animal" ]
+  },
+  {
+    "ProibidaoWord": "CID MOREIRA",
+    "ProibidaoWords": [ "Globo", "\u00c2ncora", "Jornal", "Apresentador", "TV" ]
+  },
+  {
+    "ProibidaoWord": "PEBOLIM",
+    "ProibidaoWords": [ "Tot\u00f3", "Futebol", "Jogadores", "Mesa", "Ataque/defesa" ]
+  },
+  {
+    "ProibidaoWord": "DIET",
+    "ProibidaoWords": [ "Gordura", "Menos", "Comer", "Calorias", "Peso" ]
+  },
+  {
+    "ProibidaoWord": "CACHIMBO",
+    "ProibidaoWords": [ "Fumo", "Pitar", "Pieteira", "Brasa", "Fumo" ]
+  },
+  {
+    "ProibidaoWord": "ACORDE\u00c3O",
+    "ProibidaoWords": [ "Instrumento", "Forr\u00f3", "Sanfona", "M\u00fasica", "Harm\u00f4nico" ]
+  },
+  {
+    "ProibidaoWord": "MANOBRISTA",
+    "ProibidaoWords": [ "Estaciona", "Dirigir", "Gorjeta", "Carro", "Restaurante" ]
+  },
+  {
+    "ProibidaoWord": "ZORRO",
+    "ProibidaoWords": [ "Tonto", "Preto", "Cavalo", "M\u00e1scara", "Televis\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "PENA",
+    "ProibidaoWords": [ "Asa", "Travesseiro", "Voar", "P\u00e1ssaro", "Leve" ]
+  },
+  {
+    "ProibidaoWord": "AMBUL\u00c2NCIA",
+    "ProibidaoWords": [ "Sirene", "M\u00e9dico", "Emerg\u00eancia", "Hospital", "Ve\u00edculo" ]
+  },
+  {
+    "ProibidaoWord": "N\u00c9ON",
+    "ProibidaoWords": [ "Luz", "Propaganda", "Placas", "Tubo", "G\u00e1s" ]
+  },
+  {
+    "ProibidaoWord": "GAITA",
+    "ProibidaoWords": [ "Instrumento", "Blues", "Musical", "Boca", "Soprar" ]
+  },
+  {
+    "ProibidaoWord": "SURPRESA",
+    "ProibidaoWords": [ "Supreender", "Festa", "Aguardar", "Anivers\u00e1rio", "Desprevenido" ]
+  },
+  {
+    "ProibidaoWord": "GARRAFA",
+    "ProibidaoWords": [ "Vasilha", "Vidro", "Refrigerante", "Cerveja", "Coca-cola" ]
+  },
+  {
+    "ProibidaoWord": "HONESTIDADE",
+    "ProibidaoWords": [ "Verdade", "Mentira", "Dignidade", "Decente", "Confian\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "VADIAR",
+    "ProibidaoWords": [ "Nada", "Parado", "Esquina", "Vagabundo", "Pol\u00edcia" ]
+  },
+  {
+    "ProibidaoWord": "BAL\u00c3O",
+    "ProibidaoWords": [ "G\u00e1s h\u00e9lio", "Encher", "Ar", "Borracha", "Estourar" ]
+  },
+  {
+    "ProibidaoWord": "PIJAMA",
+    "ProibidaoWords": [ "Camisola", "Dormir", "Robe", "Roupa", "Cama" ]
+  },
+  {
+    "ProibidaoWord": "PIADA",
+    "ProibidaoWords": [ "Trote", "Anedota", "Comediante", "Gargalhadas", "Engra\u00e7ado" ]
+  },
+  {
+    "ProibidaoWord": "MISTURAR",
+    "ProibidaoWords": [ "Juntar", "Mexer", "Combinar", "Bater", "Liquidificador" ]
+  },
+  {
+    "ProibidaoWord": "AVIADOR",
+    "ProibidaoWords": [ "Piloto", "Avi\u00e3o", "Frequente", "Voar", "C\u00e9u" ]
+  },
+  {
+    "ProibidaoWord": "TENDA",
+    "ProibidaoWords": [ "Lona", "Cobertura", "Cabana", "Porta", "Barraca" ]
+  },
+  {
+    "ProibidaoWord": "ORQUESTRA",
+    "ProibidaoWords": [ "Sinfonia", "Concerto", "Maestro", "Instrumentos", "M\u00fasicos" ]
+  },
+  {
+    "ProibidaoWord": "HAMSTER",
+    "ProibidaoWords": [ "Animal", "Estima\u00e7\u00e3o", "Gaiola", "Rato", "Rodinha" ]
+  },
+  {
+    "ProibidaoWord": "SORTE",
+    "ProibidaoWords": [ "Dinheiro", "Inesperado", "Bom", "Presente", "Fortuna" ]
+  },
+  {
+    "ProibidaoWord": "BASQUETE",
+    "ProibidaoWords": [ "Aro", "Arremessar", "Jogar", "Cesta", "Quadra" ]
+  },
+  {
+    "ProibidaoWord": "DIPLOMA",
+    "ProibidaoWords": [ "Receber", "Formatura", "Estudo", "Documento", "T\u00edtulo" ]
+  },
+  {
+    "ProibidaoWord": "BOXE",
+    "ProibidaoWords": [ "Pugilista", "Mike Tyson", "Peso-pesado", "Pop\u00f3", "Luva" ]
+  },
+  {
+    "ProibidaoWord": "TIRA",
+    "ProibidaoWords": [ "Quadrinhos", "Fita", "Faixa", "Pano", "Papel" ]
+  },
+  {
+    "ProibidaoWord": "PIA",
+    "ProibidaoWords": [ "Sab\u00e3o", "Cozinha", "\u00c1gua", "Banheiro", "Torneira" ]
+  },
+  {
+    "ProibidaoWord": "REF\u00c9M",
+    "ProibidaoWords": [ "Sequestro", "Ir\u00e3", "Cativeiro", "Resgate", "Pegar" ]
+  },
+  {
+    "ProibidaoWord": "CHATO",
+    "ProibidaoWords": [ "Plano", "Liso", "Mala", "P\u00e9", "Inconveniente" ]
+  },
+  {
+    "ProibidaoWord": "CONF\u00daCIO",
+    "ProibidaoWords": [ "S\u00e1bio", "Dizeres", "Chin\u00eas", "Fil\u00f3sofo", "Prov\u00e9rbio" ]
+  },
+  {
+    "ProibidaoWord": "BULE",
+    "ProibidaoWords": [ "Servir", "\u00c1gua", "Caf\u00e9", "Chaleira", "Bico" ]
+  },
+  {
+    "ProibidaoWord": "POSITIVO",
+    "ProibidaoWords": [ "Negativo", "Mais", "P\u00f3lo", "Certo", "Claro" ]
+  },
+  {
+    "ProibidaoWord": "TESOURO",
+    "ProibidaoWords": [ "Enterrado", "Ilha", "Ouro", "Ba\u00fa", "Pirata" ]
+  },
+  {
+    "ProibidaoWord": "AMARELO",
+    "ProibidaoWords": [ "Covarde", "Sol", "Banana", "Gema", "Cor" ]
+  },
+  {
+    "ProibidaoWord": "BRIGA DE FAM\u00cdLIA",
+    "ProibidaoWords": [ "Luta", "Disputa", "Discuss\u00e3o", "Parente", "Entre" ]
+  },
+  {
+    "ProibidaoWord": "RAPTO",
+    "ProibidaoWords": [ "Resgate", "Sequestrar", "Roubar", "Crian\u00e7a", "Ref\u00e9m" ]
+  },
+  {
+    "ProibidaoWord": "JAQUETA",
+    "ProibidaoWords": [ "Casaco", "Couro", "Usar", "Roupa", "Jeans" ]
+  },
+  {
+    "ProibidaoWord": "T\u00daNEL",
+    "ProibidaoWords": [ "Subterr\u00e2neo", "Do amor", "Carros", "Montanha", "Buraco" ]
+  },
+  {
+    "ProibidaoWord": "CALCINHA",
+    "ProibidaoWords": [ "N\u00e1ilon", "Lingerie", "Meia", "Perna", "Usar" ]
+  },
+  {
+    "ProibidaoWord": "BARRACA",
+    "ProibidaoWords": [ "Camping", "Escoteiro", "Dormir", "Fora", "Cabana" ]
+  },
+  {
+    "ProibidaoWord": "PRESSA",
+    "ProibidaoWords": [ "R\u00e1pido", "Apressar", "Atrasado", "Correr", "Ligeiro" ]
+  },
+  {
+    "ProibidaoWord": "ESTRANGULAR",
+    "ProibidaoWords": [ "Asfixiar", "Sufocar", "Pesco\u00e7o", "Assassinar", "Garganta" ]
+  },
+  {
+    "ProibidaoWord": "BRIG\u00c3O",
+    "ProibidaoWords": [ "Valent\u00e3o", "Escola", "Bater", "Briga", "Empurrar" ]
+  },
+  {
+    "ProibidaoWord": "MOSTARDA",
+    "ProibidaoWords": [ "Salsicha", "Cachorro-quente", "Condimento", "Ketchup", "Amarelo" ]
+  },
+  {
+    "ProibidaoWord": "AMENDOIM",
+    "ProibidaoWords": [ "Casca", "Salgado", "Aperitivo", "Torrado", "Comer" ]
+  },
+  {
+    "ProibidaoWord": "REVOLU\u00c7\u00c3O",
+    "ProibidaoWords": [ "Governo", "Pessoas", "Francesa", "Industrial", "Revolta" ]
+  },
+  {
+    "ProibidaoWord": "RENA",
+    "ProibidaoWords": [ "Natal", "Papai Noel", "Tren\u00f3", "Neve", "Nariz vermelho" ]
+  },
+  {
+    "ProibidaoWord": "MOLHADO",
+    "ProibidaoWords": [ "Umidade", "Seco", "\u00c1gua", "Chuva", "Ensopado" ]
+  },
+  {
+    "ProibidaoWord": "CADEIRA DE BALAN\u00c7O",
+    "ProibidaoWords": [ "Varanda", "Sentar", "Balan\u00e7ar", "Vov\u00f3", "Voltar" ]
+  },
+  {
+    "ProibidaoWord": "FONDUE",
+    "ProibidaoWords": [ "Chocolate", "Garfo", "Queijo", "Molhar", "P\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "PUDIM",
+    "ProibidaoWords": [ "Sobremesa", "Chocolate", "Leite", "Gelatina", "Doce" ]
+  },
+  {
+    "ProibidaoWord": "GUARDA-SOL",
+    "ProibidaoWords": [ "Sombra", "Guarda-chuva", "Praia", "Proteger", "Queimar" ]
+  },
+  {
+    "ProibidaoWord": "BEIJO",
+    "ProibidaoWords": [ "L\u00e1bios", "Boca", "Carinho", "Boa noite", "Dar" ]
+  },
+  {
+    "ProibidaoWord": "TESTE",
+    "ProibidaoWords": [ "Exame", "Escolha", "Prova", "Escola", "Pergunta" ]
+  },
+  {
+    "ProibidaoWord": "C\u00d3RREGO",
+    "ProibidaoWords": [ "Corrente", "Rio", "Riacho", "\u00c1gua", "Ribeir\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "FIDEL CASTRO",
+    "ProibidaoWords": [ "Charuto", "Cuba", "Revolu\u00e7\u00e3o", "Barba", "Farda" ]
+  },
+  {
+    "ProibidaoWord": "ADULT\u00c9RIO",
+    "ProibidaoWords": [ "Casamento", "Caso", "Infiel", "Fraude", "Trai\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "CONFETE",
+    "ProibidaoWords": [ "Papel", "Serpentina", "Jogar", "Carnaval", "Comemora\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "AQUILES",
+    "ProibidaoWords": [ "Gr\u00e9cia", "Her\u00f3i", "Calcanhar", "Mitologia", "Fraco" ]
+  },
+  {
+    "ProibidaoWord": "SKATE",
+    "ProibidaoWords": [ "Andar", "Roda", "Cal\u00e7ada", "Rua", "Menino" ]
+  },
+  {
+    "ProibidaoWord": "HOD\u00d4METRO",
+    "ProibidaoWords": [ "Quil\u00f4metros", "Carro", "Dist\u00e2ncia", "Painel", "Longe" ]
+  },
+  {
+    "ProibidaoWord": "FLUTUAR",
+    "ProibidaoWords": [ "Nadar", "Boiar", "Exibir", "Leve", "\u00c1gua" ]
+  },
+  {
+    "ProibidaoWord": "PRES\u00c9PIO",
+    "ProibidaoWords": [ "Natal", "Boneco", "Nascimento", "Jesus", "Reis magos" ]
+  },
+  {
+    "ProibidaoWord": "LIM\u00c3O",
+    "ProibidaoWords": [ "C\u00edtrico", "Azedo", "Lima", "Fruta", "Verde" ]
+  },
+  {
+    "ProibidaoWord": "FITA",
+    "ProibidaoWords": [ "Crepe", "La\u00e7o", "Cassete", "V\u00eddeo", "Durex" ]
+  },
+  {
+    "ProibidaoWord": "\u00d3LEO",
+    "ProibidaoWords": [ "Derramar", "Sair", "Oliva", "Carro", "Furadeira" ]
+  },
+  {
+    "ProibidaoWord": "ROSQUINHA",
+    "ProibidaoWords": [ "Coco", "Buraco", "Leite", "Comer", "Redondo" ]
+  },
+  {
+    "ProibidaoWord": "GALERIA",
+    "ProibidaoWords": [ "Arte", "Museu", "Quadros", "Mostra", "Pintura" ]
+  },
+  {
+    "ProibidaoWord": "CASPA",
+    "ProibidaoWords": [ "Cabelo", "Escama", "Couro cabeludo", "Denorex", "Branco" ]
+  },
+  {
+    "ProibidaoWord": "CARANGUEJEIRA",
+    "ProibidaoWords": [ "Aranha", "Preta", "Pernas", "Peluda", "Teia" ]
+  },
+  {
+    "ProibidaoWord": "UMBIGO",
+    "ProibidaoWords": [ "Embigo", "Barriga", "Est\u00f4mago", "Cord\u00e3o Umbilical", "Nascer" ]
+  },
+  {
+    "ProibidaoWord": "CAF\u00c9 DA MANH\u00c3",
+    "ProibidaoWords": [ "Desjejum", "Refei\u00e7\u00e3o", "Comer", "Almo\u00e7o", "P\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "SELA",
+    "ProibidaoWords": [ "Cavalo", "Estribo", "Couro", "Assento", "Montar" ]
+  },
+  {
+    "ProibidaoWord": "NORUEGA",
+    "ProibidaoWords": [ "Pa\u00eds", "Escandin\u00e1via", "Europa", "Su\u00e9cia", "Oslo" ]
+  },
+  {
+    "ProibidaoWord": "REL\u00d3GIO DE PULSO",
+    "ProibidaoWords": [ "Ver", "Tempo", "Pulso", "Hora", "Usar" ]
+  },
+  {
+    "ProibidaoWord": "CANOA",
+    "ProibidaoWords": [ "Bote", "Remo", "\u00cdndio", "\u00c1gua", "Barco" ]
+  },
+  {
+    "ProibidaoWord": "COVINHA",
+    "ProibidaoWords": [ "Sorriso", "Bochecha", "Buraco", "Rost o", "Gracinha" ]
+  },
+  {
+    "ProibidaoWord": "VIOL\u00c3O",
+    "ProibidaoWords": [ "M\u00fasica", "Cordas", "Dedilhar", "Tocar", "Viola" ]
+  },
+  {
+    "ProibidaoWord": "R\u00cdMEL",
+    "ProibidaoWords": [ "C\u00edlio", "Maquiagem", "Cosm\u00e9tico", "Escova", "Passar" ]
+  },
+  {
+    "ProibidaoWord": "PICLES",
+    "ProibidaoWords": [ "Pote", "Pepino", "Vinagre", "Nabo", "Conserva" ]
+  },
+  {
+    "ProibidaoWord": "INVESTIGAR",
+    "ProibidaoWords": [ "Crime", "Procurar", "Secreto", "Detetive", "Pista" ]
+  },
+  {
+    "ProibidaoWord": "SOLTEIRO",
+    "ProibidaoWords": [ "Homem", "Casar", "Sozinho", "Esposa", "Namorar" ]
+  },
+  {
+    "ProibidaoWord": "SEDA",
+    "ProibidaoWords": [ "Tecido", "Pano", "Leve", "Fino", "Roupa" ]
+  },
+  {
+    "ProibidaoWord": "M\u00c3E NATUREZA",
+    "ProibidaoWords": [ "Meio ambiente", "Ecologia", "Clima", "Pai", "Ar livre" ]
+  },
+  {
+    "ProibidaoWord": "VIRA-LATA",
+    "ProibidaoWords": [ "Cachorro", "Rua", "Ra\u00e7a", "Lixo", "pedigree" ]
+  },
+  {
+    "ProibidaoWord": "ESPORTISTA",
+    "ProibidaoWords": [ "Campeonato", "Competi\u00e7\u00e3o", "Atleta", "Esporte", "Jogar" ]
+  },
+  {
+    "ProibidaoWord": "IMPRESS\u00c3O DIGITAL",
+    "ProibidaoWords": [ "M\u00e3o", "Marca", "Evid\u00eancia", "Crime", "P\u00f3" ]
+  },
+  {
+    "ProibidaoWord": "LOTERIA",
+    "ProibidaoWords": [ "Bilhete", "Dinheiro", "N\u00famero", "Ganhar", "Esportiva" ]
+  },
+  {
+    "ProibidaoWord": "POEMA",
+    "ProibidaoWords": [ "Soneto", "Rima", "Verso", "Escrever", "Palavras" ]
+  },
+  {
+    "ProibidaoWord": "QUEIMADURA DE SOL",
+    "ProibidaoWords": [ "Vermelho", "Pele", "Protetor", "Bronzeador", "Sundown" ]
+  },
+  {
+    "ProibidaoWord": "SMOKING",
+    "ProibidaoWords": [ "Formal", "Gravata-borboleta", "Terno", "Palet\u00f3", "Festa" ]
+  },
+  {
+    "ProibidaoWord": "ESQUICHO",
+    "ProibidaoWords": [ "Torneira", "Chuveiro", "Mangueira", "\u00c1gua", "Usar" ]
+  },
+  {
+    "ProibidaoWord": "DESERTO",
+    "ProibidaoWords": [ "Saara", "Cacto", "Quente", "Seco", "Areia" ]
+  },
+  {
+    "ProibidaoWord": "GRANOLA",
+    "ProibidaoWords": [ "Sa\u00fade", "Barrinha", "Matinal", "Cereal", "Caf\u00e9 da manh\u00e3" ]
+  },
+  {
+    "ProibidaoWord": "TOQUE",
+    "ProibidaoWords": [ "M\u00e3os", "N\u00e3o", "Sentir", "Tato", "Ponto" ]
+  },
+  {
+    "ProibidaoWord": "P\u00c1SCOA",
+    "ProibidaoWords": [ "Feriado", "Coelho", "Ovos", "Crist\u00e3o", "Cesta" ]
+  },
+  {
+    "ProibidaoWord": "FARM\u00c1CIA",
+    "ProibidaoWords": [ "Drogaria", "Receitas", "P\u00edlula", "Rem\u00e9dio", "Doente" ]
+  },
+  {
+    "ProibidaoWord": "VISTO",
+    "ProibidaoWords": [ "Passaporte", "Estrangeiro", "Pedir", "Viajar", "Exterior" ]
+  },
+  {
+    "ProibidaoWord": "TRAVE",
+    "ProibidaoWords": [ "Futebol", "Bater", "Chute", "Bola", "Goleiro" ]
+  },
+  {
+    "ProibidaoWord": "BILHETE",
+    "ProibidaoWords": [ "Carta", "Escrever", "Agradecer", "Mensagem", "Recado" ]
+  },
+  {
+    "ProibidaoWord": "GRADUA\u00c7\u00c3O",
+    "ProibidaoWords": [ "Concluir", "Escola", "Formar", "Diploma", "P\u00f3s" ]
+  },
+  {
+    "ProibidaoWord": "LEITE",
+    "ProibidaoWords": [ "Bebida", "Vaca", "Branco", "Latic\u00ednio", "C\u00e1lcio" ]
+  },
+  {
+    "ProibidaoWord": "BRIGADEIRO",
+    "ProibidaoWords": [ "Comer", "Chocolate", "Granulado", "Festa", "Doce" ]
+  },
+  {
+    "ProibidaoWord": "CHEFE",
+    "ProibidaoWords": [ "Supervisor", "Gerente", "Emprego", "Trabalhar", "Patr\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "NEGATIVO",
+    "ProibidaoWords": [ "Positivo", "Menos", "Filme", "Foto", "Atitude" ]
+  },
+  {
+    "ProibidaoWord": "ELVIS PRESLEY",
+    "ProibidaoWords": [ "Rock n\u2019 Roll", "Dan\u00e7ar", "Cantor", "Rei", "Sucesso" ]
+  },
+  {
+    "ProibidaoWord": "BOLACHA",
+    "ProibidaoWords": [ "Biscoito", "Recheada", "Caf\u00e9", "Pacote", "Wafer" ]
+  },
+  {
+    "ProibidaoWord": "FILME",
+    "ProibidaoWords": [ "Locadora", "Cinema", "Atores", "Trailer", "TV" ]
+  },
+  {
+    "ProibidaoWord": "ISCA",
+    "ProibidaoWords": [ "Minhoca", "Pescaria", "Anzol", "Atrair", "Pescar" ]
+  },
+  {
+    "ProibidaoWord": "ESCANTEIO",
+    "ProibidaoWords": [ "Tiro", "Canto", "Ol\u00edmpico", "Futebol", "Corner" ]
+  },
+  {
+    "ProibidaoWord": "M\u00c1QUINA DE ESCREVER",
+    "ProibidaoWords": [ "Tecla", "Escrit\u00f3rio", "Carta", "Secret\u00e1ria", "Datilografar" ]
+  },
+  {
+    "ProibidaoWord": "CHAMPAGNE",
+    "ProibidaoWords": [ "Vinho", "Bolhas", "Rolha", "Brinde", "Dom Perignon" ]
+  },
+  {
+    "ProibidaoWord": "PERFUME",
+    "ProibidaoWords": [ "Col\u00f4nia", "Aroma", "Cheiro", "P\u00f3s-Barba", "Fragr\u00e2ncia" ]
+  },
+  {
+    "ProibidaoWord": "SOGRA",
+    "ProibidaoWords": [ "Casamento", "Mulher", "Parente", "Esposa", "M\u00e3e" ]
+  },
+  {
+    "ProibidaoWord": "PASTA",
+    "ProibidaoWords": [ "Trabalho", "Pap\u00e9is", "Neg\u00f3cios", "Carregar", "Executivo" ]
+  },
+  {
+    "ProibidaoWord": "BARRIL",
+    "ProibidaoWords": [ "Barrica", "Cont\u00eainer", "Madeira", "Vinho", "Pinga" ]
+  },
+  {
+    "ProibidaoWord": "INS\u00d4NIA",
+    "ProibidaoWords": [ "Dormir", "Agitado", "Sono", "Cama", "Noite" ]
+  },
+  {
+    "ProibidaoWord": "EMBRIAGADO",
+    "ProibidaoWords": [ "B\u00eabado", "Intoxicado", "Chapado", "\u00c1lcool", "S\u00f3brio" ]
+  },
+  {
+    "ProibidaoWord": "PAIS",
+    "ProibidaoWords": [ "M\u00e3e", "Pai", "Filhos", "Nascimento", "\u00d3rf\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "ARCO-\u00cdRIS",
+    "ProibidaoWords": [ "Atr\u00e1s", "Cores", "Ouro", "C\u00e9u", "Sol" ]
+  },
+  {
+    "ProibidaoWord": "PIN\u00d3QUIO",
+    "ProibidaoWords": [ "Nariz", "Crescer", "Madeira", "Mentira", "Marionete" ]
+  },
+  {
+    "ProibidaoWord": "SPRAY DE PIMENTA",
+    "ProibidaoWords": [ "Borrifar", "Bolsa", "Agress\u00e3o", "Olhos", "Mulher" ]
+  },
+  {
+    "ProibidaoWord": "CONGRESSO",
+    "ProibidaoWords": [ "C\u00e2mara", "Senado", "Deputados", "Bras\u00edlia", "Legislativo" ]
+  },
+  {
+    "ProibidaoWord": "BONECO DE NEVE",
+    "ProibidaoWords": [ "Congelado", "Natal", "Construir", "Inverno", "Fazer" ]
+  },
+  {
+    "ProibidaoWord": "CONGRESSO",
+    "ProibidaoWords": [ "C\u00e2mara", "Senado", "Deputados", "Bras\u00edlia", "Legislativo" ]
+  },
+  {
+    "ProibidaoWord": "EXPLOS\u00c3O",
+    "ProibidaoWords": [ "Apagar", "Detonar", "Estouro", "Dinamite", "Bomba" ]
+  },
+  {
+    "ProibidaoWord": "MONSTRO",
+    "ProibidaoWords": [ "Frankenstein", "Terror", "Filme", "Criatura", "Assustador" ]
+  },
+  {
+    "ProibidaoWord": "GERME",
+    "ProibidaoWords": [ "Doen\u00e7a", "Enfermidade", "V\u00edrus", "Bact\u00e9ria", "Resfriado" ]
+  },
+  {
+    "ProibidaoWord": "CAIPIRA",
+    "ProibidaoWords": [ "Interior", "Jeca", "Ro\u00e7a", "Sertanejo", "Cidade" ]
+  },
+  {
+    "ProibidaoWord": "POLICIAL",
+    "ProibidaoWords": [ "Tira", "Arma", "Lei", "Distintivo", "Delegacia" ]
+  },
+  {
+    "ProibidaoWord": "\u00d3RF\u00c3O",
+    "ProibidaoWords": [ "Abandonado", "Pais", "Adotado", "M\u00e3e", "Pai" ]
+  },
+  {
+    "ProibidaoWord": "MAU HUMOR",
+    "ProibidaoWords": [ "Azedo", "Irritado", "Carrancudo", "Problemas", "Jeito" ]
+  },
+  {
+    "ProibidaoWord": "ALICHE",
+    "ProibidaoWords": [ "Peixe", "Pizza", "Salgado", "Colocar", "Pedir" ]
+  },
+  {
+    "ProibidaoWord": "TREN\u00d3",
+    "ProibidaoWords": [ "Cachorro", "Husky", "Alasca", "Neve", "Passear" ]
+  },
+  {
+    "ProibidaoWord": "\u00c9TICA",
+    "ProibidaoWords": [ "Valor", "Pol\u00edtico", "Escr\u00fapulo", "Modelo", "Moral" ]
+  },
+  {
+    "ProibidaoWord": "PIMENTA",
+    "ProibidaoWords": [ "Quente", "Picante", "Vermelha", "Malagueta", "Reino" ]
+  },
+  {
+    "ProibidaoWord": "SALVA-VIDAS",
+    "ProibidaoWords": [ "Piscina", "Praia", "Nadar", "Afogar", "Salvar" ]
+  },
+  {
+    "ProibidaoWord": "ENDINHEIRADO",
+    "ProibidaoWords": [ "Rico", "Milion\u00e1rio", "Cheio", "Grana", "Dinheiro" ]
+  },
+  {
+    "ProibidaoWord": "REVESTIMENTO",
+    "ProibidaoWords": [ "Piso", "Parede", "Azulejo", "Cobertura", "Envolver" ]
+  },
+  {
+    "ProibidaoWord": "GLOBO",
+    "ProibidaoWords": [ "Mundo", "Mapa", "Esfera", "Redondo", "Terra" ]
+  },
+  {
+    "ProibidaoWord": "\u00c2NCORA",
+    "ProibidaoWords": [ "Navio", "Barco", "Notici\u00e1rio", "Jogar", "I\u00e7ar" ]
+  },
+  {
+    "ProibidaoWord": "COADOR",
+    "ProibidaoWords": [ "Fazer", "Peneira", "Escorrer", "\u00c1gua", "Caf\u00e9" ]
+  },
+  {
+    "ProibidaoWord": "ESCADA",
+    "ProibidaoWords": [ "Subir", "Degrau", "Passo", "Pintar", "Alto" ]
+  },
+  {
+    "ProibidaoWord": "NOTA",
+    "ProibidaoWords": [ "Escola", "Professor", "Boletim", "Prova", "Recupera\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "NINHO",
+    "ProibidaoWords": [ "P\u00e1ssaro", "Ovos", "\u00c1rvore", "Casa", "Construir" ]
+  },
+  {
+    "ProibidaoWord": "ODOR",
+    "ProibidaoWords": [ "Cheirar", "Fedor", "Aroma", "Fragr\u00e2ncia", "Nariz" ]
+  },
+  {
+    "ProibidaoWord": "MICROONDAS",
+    "ProibidaoWords": [ "Comida", "Utens\u00edlio", "Forno", "Cozinhar", "R\u00e1pido" ]
+  },
+  {
+    "ProibidaoWord": "CAMISOLA",
+    "ProibidaoWords": [ "Roupa de dormir", "Pijama", "Cama", "Flanela", "Mulher" ]
+  },
+  {
+    "ProibidaoWord": "CELEIRO",
+    "ProibidaoWords": [ "Fazenda", "Constru\u00e7\u00e3o", "Animais", "Porteira", "Palheiro" ]
+  },
+  {
+    "ProibidaoWord": "N\u00d3",
+    "ProibidaoWords": [ "Gravata", "Corda", "Barbante", "Cadar\u00e7o", "Enroscar" ]
+  },
+  {
+    "ProibidaoWord": "CANGURU",
+    "ProibidaoWords": [ "Bolsa", "Pulo", "Animal", "Austr\u00e1lia", "Salto" ]
+  },
+  {
+    "ProibidaoWord": "FRANGO A PASSARINHO",
+    "ProibidaoWords": [ "Galinha", "Fritar", "Alho", "\u00d3leo", "Peda\u00e7o" ]
+  },
+  {
+    "ProibidaoWord": "CANGURU",
+    "ProibidaoWords": [ "Bolsa", "Pulo", "Animal", "Austr\u00e1lia", "Salto" ]
+  },
+  {
+    "ProibidaoWord": "REL\u00d3GIO",
+    "ProibidaoWords": [ "Tempo", "N\u00famero", "Parede", "Hora", "Ponteiro" ]
+  },
+  {
+    "ProibidaoWord": "TIRADENTES",
+    "ProibidaoWords": [ "Joaquim Jos\u00e9 da Silva Xavier", "Feriado", "Independ\u00eancia", "Inconfid\u00eancia Mineira", "Forca" ]
+  },
+  {
+    "ProibidaoWord": "FRALDA",
+    "ProibidaoWords": [ "Fedido", "Pano", "Descart\u00e1vel", "Beb\u00ea", "Assadura" ]
+  },
+  {
+    "ProibidaoWord": "B\u00daFALO",
+    "ProibidaoWords": [ "Grande", "Animal", "Bill", "Boi", "Mozarela" ]
+  },
+  {
+    "ProibidaoWord": "IRRITAR",
+    "ProibidaoWords": [ "Amolar", "Nervos", "Agravar", "Aborrecer", "Incomodar" ]
+  },
+  {
+    "ProibidaoWord": "PIANO",
+    "ProibidaoWords": [ "\u00d3rg\u00e3o", "Tecla", "Tampa", "Som", "Pedal" ]
+  },
+  {
+    "ProibidaoWord": "COCAR",
+    "ProibidaoWords": [ "Roupa", "\u00cdndio", "Cabe\u00e7a", "Penas", "Usar" ]
+  },
+  {
+    "ProibidaoWord": "RICO",
+    "ProibidaoWords": [ "Milion\u00e1rio", "Lux\u00faria", "Abastado", "Riqueza", "Dinheiro" ]
+  },
+  {
+    "ProibidaoWord": "ANCESTRAL",
+    "ProibidaoWords": [ "Parente", "Descendente", "Antepassado", "Raiz", "Fam\u00edlia" ]
+  },
+  {
+    "ProibidaoWord": "MASCOTE",
+    "ProibidaoWords": [ "S\u00edmbolo", "Vestir", "Time", "Animal", "Esporte" ]
+  },
+  {
+    "ProibidaoWord": "AZEITONA",
+    "ProibidaoWords": [ "Verde", "\u00d3leo", "Aperitivo", "Martini", "Caro\u00e7o" ]
+  },
+  {
+    "ProibidaoWord": "TARDE",
+    "ProibidaoWords": [ "Antes", "Dia", "Manh\u00e3", "Meio-dia", "Noite" ]
+  },
+  {
+    "ProibidaoWord": "EST\u00daPIDO",
+    "ProibidaoWords": [ "Bobo", "Esperto", "Idiota", "Grosseiro", "Bruto" ]
+  },
+  {
+    "ProibidaoWord": "ELIZABETH TAYLOR",
+    "ProibidaoWords": [ "Richard Burton", "Casada", "Atriz", "Marido", "Diamante" ]
+  },
+  {
+    "ProibidaoWord": "YAKISOBA",
+    "ProibidaoWords": [ "Comida", "Macarr\u00e3o", "Chin\u00eas", "Carne", "Legumes" ]
+  },
+  {
+    "ProibidaoWord": "HOLOGRAMA",
+    "ProibidaoWords": [ "Tridimensional", "Foto", "Imagem", "Cart\u00e3o de cr\u00e9dito", "Luz" ]
+  },
+  {
+    "ProibidaoWord": "CONDOL\u00caNCIA",
+    "ProibidaoWords": [ "Cart\u00e3o", "Sentimento", "Desculpa", "Piedade", "Compaix\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "BIFE",
+    "ProibidaoWords": [ "Carne", "Boi", "Churrasco", "Fil\u00e9", "Hamburguer" ]
+  },
+  {
+    "ProibidaoWord": "LAVANDERIA",
+    "ProibidaoWords": [ "Lavadora", "Secadora", "Roupas", "Lavar", "M\u00e1quina" ]
+  },
+  {
+    "ProibidaoWord": "CREME DE BARBEAR",
+    "ProibidaoWords": [ "Rosto", "Navalha", "Espuma", "Barba", "Gilete" ]
+  },
+  {
+    "ProibidaoWord": "A\u00c7OUGUEIRO",
+    "ProibidaoWords": [ "Carne", "Abater", "Vender", "Faca", "Churrasco" ]
+  },
+  {
+    "ProibidaoWord": "CALCULADORA",
+    "ProibidaoWords": [ "Cient\u00edfica", "Soma", "M\u00e1quina", "Matem\u00e1tica", "N\u00fameros" ]
+  },
+  {
+    "ProibidaoWord": "GATILHO",
+    "ProibidaoWords": [ "Arma", "Rev\u00f3lver", "R\u00e1pido", "Apertar", "Tiro" ]
+  },
+  {
+    "ProibidaoWord": "PIQUENIQUE",
+    "ProibidaoWords": [ "Cesta", "Formiga", "Fora", "Comer", "Comida" ]
+  },
+  {
+    "ProibidaoWord": "MAPA",
+    "ProibidaoWords": [ "Encontrar", "Dirigir", "Perdido", "Atlas", "Estrada" ]
+  },
+  {
+    "ProibidaoWord": "VELHO OESTE",
+    "ProibidaoWords": [ "Bangue-bangue", "Caub\u00f3i", "Filme", "Televis\u00e3o", "Ponto cardeal" ]
+  },
+  {
+    "ProibidaoWord": "V\u00cdRGULA",
+    "ProibidaoWords": [ "Pontua\u00e7\u00e3o", "Pausa", "Marca", "Ponto", "Senten\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "PICOL\u00c9",
+    "ProibidaoWords": [ "Sorvete", "Fruta", "Palito", "Gelado", "Duro" ]
+  },
+  {
+    "ProibidaoWord": "INVESTIMENTO",
+    "ProibidaoWords": [ "Futuro", "Finan\u00e7as", "Dinheiro", "Economizar", "Retorno" ]
+  },
+  {
+    "ProibidaoWord": "PICOL\u00c9",
+    "ProibidaoWords": [ "Sorvete", "Fruta", "Palito", "Gelado", "Duro" ]
+  },
+  {
+    "ProibidaoWord": "CHAVE DE FENDA",
+    "ProibidaoWords": [ "parafuso", "Apertar", "Ferramenta", "Girar", "Rosquear" ]
+  },
+  {
+    "ProibidaoWord": "MOQUECA",
+    "ProibidaoWords": [ "Comida", "Peixe", "Camar\u00e3o", "Bahia", "Molho" ]
+  },
+  {
+    "ProibidaoWord": "CHEIRAR",
+    "ProibidaoWords": [ "Perfume", "Odor", "Nariz", "Aroma", "Respirar" ]
+  },
+  {
+    "ProibidaoWord": "LAMPI\u00c3O",
+    "ProibidaoWords": [ "Luz", "L\u00e2mpada", "Escuro", "Querosene", "Iluminar" ]
+  },
+  {
+    "ProibidaoWord": "ROUPA \u00cdNTIMA",
+    "ProibidaoWords": [ "Debaixo", "Cueca", "Suti\u00e3", "Calcinha", "Lingerie" ]
+  },
+  {
+    "ProibidaoWord": "QU\u00cdNTUPLO",
+    "ProibidaoWords": [ "Beb\u00eas", "Cinco", "Nascer", "Mais", "M\u00faltiplo" ]
+  },
+  {
+    "ProibidaoWord": "PULAR",
+    "ProibidaoWords": [ "Sapo", "Canguru", "Avan\u00e7ar", "Saltar", "Carnaval" ]
+  },
+  {
+    "ProibidaoWord": "VINTE-UM",
+    "ProibidaoWords": [ "Bater", "Baralho", "Jogar", "Cartas", "Blackjack" ]
+  },
+  {
+    "ProibidaoWord": "ARTRITE",
+    "ProibidaoWords": [ "Reumatismo", "Dolorido", "Juntas", "Velho", "Dor" ]
+  },
+  {
+    "ProibidaoWord": "ZELADOR",
+    "ProibidaoWords": [ "Porteiro", "Pr\u00e9dio", "Manuten\u00e7\u00e3o", "Limpeza", "Edif\u00edcio" ]
+  },
+  {
+    "ProibidaoWord": "MADEIRA",
+    "ProibidaoWords": [ "Lenha", "Floresta", "Tora", "\u00c1rvore", "Construir" ]
+  },
+  {
+    "ProibidaoWord": "DINHEIRO",
+    "ProibidaoWords": [ "Reais", "Centavos", "Comprar", "Gastar", "Grana" ]
+  },
+  {
+    "ProibidaoWord": "METRALHADORA",
+    "ProibidaoWords": [ "Autom\u00e1tica", "Arma", "Armamento", "UZI", "Tiro" ]
+  },
+  {
+    "ProibidaoWord": "ANCORADOURO",
+    "ProibidaoWords": [ "Porto", "Navio", "Barco", "\u00c2ncora", "Doca" ]
+  },
+  {
+    "ProibidaoWord": "MANCHA",
+    "ProibidaoWords": [ "Batom", "Gordura", "Borr\u00e3o", "Esfregar", "Tinta" ]
+  },
+  {
+    "ProibidaoWord": "PARQUE",
+    "ProibidaoWords": [ "Recrea\u00e7\u00e3o", "Passear", "Divers\u00e3o", "\u00c1rvore", "Ibirapuera" ]
+  },
+  {
+    "ProibidaoWord": "SOZINHO",
+    "ProibidaoWords": [ "S\u00f3", "Solteiro", "Pr\u00f3prio", "Solit\u00e1rio", "Ningu\u00e9m" ]
+  },
+  {
+    "ProibidaoWord": "ESNOBE",
+    "ProibidaoWords": [ "Melhor", "Indiferente", "Arrogante", "Nariz", "Convencido" ]
+  },
+  {
+    "ProibidaoWord": "RISADA",
+    "ProibidaoWords": [ "Gargalhada", "Sorriso", "Divertido", "Piada", "C\u00f3cega" ]
+  },
+  {
+    "ProibidaoWord": "OLIMP\u00cdADA",
+    "ProibidaoWords": [ "Atletas", "Medalha", "Pa\u00edses", "Ouro/prata/bronze", "Competi\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "TABACO",
+    "ProibidaoWords": [ "Cigarro", "Folha", "Mascar", "C\u00e2ncer", "Fumar" ]
+  },
+  {
+    "ProibidaoWord": "CIUMENTO",
+    "ProibidaoWords": [ "Flerte", "Emo\u00e7\u00e3o", "Querer", "Invejoso", "Desconfiado" ]
+  },
+  {
+    "ProibidaoWord": "MONTANHA",
+    "ProibidaoWords": [ "Escalar", "Cordilheria", "Monte", "C\u00e9u", "Rochas" ]
+  },
+  {
+    "ProibidaoWord": "PERIQUITO",
+    "ProibidaoWords": [ "Passarinho", "Can\u00e1rio", "Gaiola", "Animal", "Pena" ]
+  },
+  {
+    "ProibidaoWord": "CALIGRAFIA",
+    "ProibidaoWords": [ "Escrever", "Aula", "Datilografar", "Ler", "Nota" ]
+  },
+  {
+    "ProibidaoWord": "ATERISSAGEM",
+    "ProibidaoWords": [ "Avi\u00e3o", "Aeroporto", "Pousar", "Decolar", "Torre" ]
+  },
+  {
+    "ProibidaoWord": "CAMEL\u00d4",
+    "ProibidaoWords": [ "Barraca", "Ambulante", "Muamba", "Vendedor", "Rua" ]
+  },
+  {
+    "ProibidaoWord": "GUINCHO",
+    "ProibidaoWords": [ "Carro", "Ve\u00edculo", "Chamar", "Reboque", "Socorro" ]
+  },
+  {
+    "ProibidaoWord": "BICICLETA",
+    "ProibidaoWords": [ "Duas rodas", "Guid\u00e3o", "Pedal", "Marcha", "Andar" ]
+  },
+  {
+    "ProibidaoWord": "ALMANAQUE",
+    "ProibidaoWords": [ "Turma da M\u00f4nica", "Disney", "Gibi", "Hist\u00f3rias", "Livro" ]
+  },
+  {
+    "ProibidaoWord": "SURFAR",
+    "ProibidaoWords": [ "Pegar", "Prancha", "Esporte", "Praia", "Onda" ]
+  },
+  {
+    "ProibidaoWord": "CASC\u00c3O",
+    "ProibidaoWords": [ "Personagem", "Turma da M\u00f4nica", "Banho", "M\u00f4nica/Cebolinha", "Sujo" ]
+  },
+  {
+    "ProibidaoWord": "OVNI",
+    "ProibidaoWords": [ "Alien", "Nave espacial", "Ver", "C\u00e9u", "luzes" ]
+  },
+  {
+    "ProibidaoWord": "FAIXA DE PEDESTRE",
+    "ProibidaoWords": [ "P\u00e9", "Carro", "Listra", "Cruzamento", "Rua" ]
+  },
+  {
+    "ProibidaoWord": "ABACAXI",
+    "ProibidaoWords": [ "Fruta", "Casca", "Coroa", "\u00c1cido", "Descascar" ]
+  },
+  {
+    "ProibidaoWord": "MALA",
+    "ProibidaoWords": [ "Bagagem", "Bolsa", "Viagem", "Chato", "Fazer" ]
+  },
+  {
+    "ProibidaoWord": "MESTRE",
+    "ProibidaoWords": [ "Professor", "Faculdade", "Escola", "Aula", "Distra\u00eddo" ]
+  },
+  {
+    "ProibidaoWord": "ALMO\u00c7O",
+    "ProibidaoWords": [ "Refei\u00e7\u00e3o", "Jantar", "Alimento", "Comer", "Caf\u00e9 da Manh\u00e3" ]
+  },
+  {
+    "ProibidaoWord": "CHINA",
+    "ProibidaoWords": [ "Culin\u00e1ria", "Pa\u00eds", "Muralha", "Oriental", "Porcelana" ]
+  },
+  {
+    "ProibidaoWord": "PROTESTO",
+    "ProibidaoWords": [ "Passivo", "Demonstrar", "Estudante", "Guerra", "Marcha" ]
+  },
+  {
+    "ProibidaoWord": "PED\u00c1GIO",
+    "ProibidaoWords": [ "Carro", "Estrada", "Cabine", "Viajar", "Pagar" ]
+  },
+  {
+    "ProibidaoWord": "QUERIDA",
+    "ProibidaoWords": [ "Amada", "Amor", "Carinho", "Prezada", "Gostar" ]
+  },
+  {
+    "ProibidaoWord": "TAL\u00c3O DE CHEQUE",
+    "ProibidaoWords": [ "Preencer", "Pagar", "Banco", "Conta", "Dinheiro" ]
+  },
+  {
+    "ProibidaoWord": "CARRINHO DE BEB\u00ca",
+    "ProibidaoWords": [ "Nen\u00e9m", "Carro", "Andar", "Roda", "Fora" ]
+  },
+  {
+    "ProibidaoWord": "CEMIT\u00c9RIO",
+    "ProibidaoWords": [ "T\u00famulo", "L\u00e1pide", "Morte", "Funeral", "Enterrar" ]
+  },
+  {
+    "ProibidaoWord": "IMORTAL",
+    "ProibidaoWords": [ "Morrer", "Viver", "Sempre", "Eternidade", "Matar" ]
+  },
+  {
+    "ProibidaoWord": "LARANJA",
+    "ProibidaoWords": [ "C\u00edtrico", "Suco", "Redondo", "Fruta", "Cor" ]
+  },
+  {
+    "ProibidaoWord": "PERU",
+    "ProibidaoWords": [ "Comer", "Matal", "Recheado", "Peito", "Ave" ]
+  },
+  {
+    "ProibidaoWord": "REPRESA",
+    "ProibidaoWords": [ "\u00c1gua", "Abastecer", "Beber", "Lago", "Armazenar" ]
+  },
+  {
+    "ProibidaoWord": "C\u00d3CEGAS",
+    "ProibidaoWords": [ "Rir", "Ro\u00e7ar", "Gargalhar", "Costela", "Pena" ]
+  },
+  {
+    "ProibidaoWord": "BARATA",
+    "ProibidaoWords": [ "Bicho", "Nojento", "Comida", "Cozinha", "Inseto" ]
+  },
+  {
+    "ProibidaoWord": "L\u00c1PIS",
+    "ProibidaoWords": [ "Grafite", "Escrever", "Borracha", "Apontar", "Caneta" ]
+  },
+  {
+    "ProibidaoWord": "PALHA",
+    "ProibidaoWords": [ "Fogo", "Agulha", "Feno", "Junco", "Espantalho" ]
+  },
+  {
+    "ProibidaoWord": "PARAFUSO",
+    "ProibidaoWords": [ "Fixar", "Bucha", "Espiral", "Rosca", "Chave de fenda" ]
+  },
+  {
+    "ProibidaoWord": "PROFISS\u00c3O",
+    "ProibidaoWords": [ "Cargo", "Emprego", "Carreira", "Entrevista", "Trabalho" ]
+  },
+  {
+    "ProibidaoWord": "EMBALAGEM",
+    "ProibidaoWords": [ "Caixa", "Tetra Pak", "Pacote", "Embrulho", "Produto" ]
+  },
+  {
+    "ProibidaoWord": "PIANO",
+    "ProibidaoWords": [ "Tecla", "Instrumento", "Marfim", "Cauda", "M\u00fasica" ]
+  },
+  {
+    "ProibidaoWord": "ARMA\u00c7\u00c3O",
+    "ProibidaoWords": [ "Borda", "Barraca", "Ilimitada", "\u00d3culos", "Planejar" ]
+  },
+  {
+    "ProibidaoWord": "ZERO",
+    "ProibidaoWords": [ "N\u00famero", "Nada", "Nulo", "Um", "Nenhum" ]
+  },
+  {
+    "ProibidaoWord": "JAQUETA",
+    "ProibidaoWords": [ "Casaco", "Blus\u00e3o", "Vestir", "Agasalho", "Esporte" ]
+  },
+  {
+    "ProibidaoWord": "SUOR",
+    "ProibidaoWords": [ "Transpirar", "Calor", "Exerc\u00edcio", "Umidade", "\u00c1gua" ]
+  },
+  {
+    "ProibidaoWord": "ARQUITETO",
+    "ProibidaoWords": [ "Constru\u00e7\u00e3o", "Projeto", "Desenhos", "Planta", "Design" ]
+  },
+  {
+    "ProibidaoWord": "CALAMINA",
+    "ProibidaoWords": [ "Rosa", "Picada", "Hera venenosa", "Coceira", "Pele" ]
+  },
+  {
+    "ProibidaoWord": "CERTID\u00c3O DE NASCIMENTO",
+    "ProibidaoWords": [ "Prova", "Legal", "Nascido", "Documento", "Velho" ]
+  },
+  {
+    "ProibidaoWord": "BARBA",
+    "ProibidaoWords": [ "Homem", "Rosto", "P\u00ealo", "Fazer", "Bigode" ]
+  },
+  {
+    "ProibidaoWord": "MEIA-NOITE",
+    "ProibidaoWords": [ "24", "Ano-novo", "Meio-dia", "Hora", "Lobisomem" ]
+  },
+  {
+    "ProibidaoWord": "CARAT\u00ca",
+    "ProibidaoWords": [ "Chute", "Artes marciais", "Faixa", "M\u00e3os", "Kid" ]
+  },
+  {
+    "ProibidaoWord": "ASFALTO",
+    "ProibidaoWords": [ "Rua", "Preto", "Piche", "Estrada", "Cimento" ]
+  },
+  {
+    "ProibidaoWord": "SARAMPO",
+    "ProibidaoWords": [ "Caxumba", "Mancha", "Vermelho", "Catapora", "Doen\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "PARQU\u00cdMETRO",
+    "ProibidaoWords": [ "Carro", "Vencer", "Guia", "Dinheiro", "T\u00edquete" ]
+  },
+  {
+    "ProibidaoWord": "AMOR",
+    "ProibidaoWords": [ "\u00d3dio", "Gostar", "Cora\u00e7\u00e3o", "Casamento", "Apaixonar" ]
+  },
+  {
+    "ProibidaoWord": "P\u00c1RA-QUEDAS",
+    "ProibidaoWords": [ "Saltar", "Pular", "Avi\u00e3o", "Queda livre", "Abrir" ]
+  },
+  {
+    "ProibidaoWord": "REVISTA",
+    "ProibidaoWords": [ "Ler", "Mat\u00e9rias", "Assinatura", "Not\u00edcias", "Fotos" ]
+  },
+  {
+    "ProibidaoWord": "ESTRAT\u00c9GIA",
+    "ProibidaoWords": [ "Plano", "Militar", "T\u00e1tica", "Pensar", "Mapa" ]
+  },
+  {
+    "ProibidaoWord": "BAND-AID",
+    "ProibidaoWords": [ "Gaze", "Cobrir", "Machucado", "Corte", "Curativo" ]
+  },
+  {
+    "ProibidaoWord": "BALAN\u00c7A",
+    "ProibidaoWords": [ "Equil\u00edbrio", "Peso", "Regime", "Subir", "Quilo" ]
+  },
+  {
+    "ProibidaoWord": "MACARR\u00c3O",
+    "ProibidaoWords": [ "Espaguete", "Italiano", "Talharim", "Massa", "Comer" ]
+  },
+  {
+    "ProibidaoWord": "CLIENTE",
+    "ProibidaoWords": [ "Adquirir", "Loja", "Comprar", "Vender", "Pagar" ]
+  },
+  {
+    "ProibidaoWord": "HALLOWEEN",
+    "ProibidaoWords": [ "Fantasia", "Ab\u00f3bora", "Outubro", "Bruxas", "Dia" ]
+  },
+  {
+    "ProibidaoWord": "BIG BEN",
+    "ProibidaoWords": [ "Londres", "Rel\u00f3gio", "Marco", "Tempo", "Inglaterra" ]
+  },
+  {
+    "ProibidaoWord": "PASSAR",
+    "ProibidaoWords": [ "Ignorar", "Reprovar", "Prova", "Roupa", "Alisar" ]
+  },
+  {
+    "ProibidaoWord": "F\u00c3",
+    "ProibidaoWords": [ "\u00cddolo", "Clube", "Aut\u00f3grafo", "Aplauso", "Famoso" ]
+  },
+  {
+    "ProibidaoWord": "FOG\u00c3O",
+    "ProibidaoWords": [ "Forno", "Fornalha", "Boca", "Cozinhar", "Cozinha" ]
+  },
+  {
+    "ProibidaoWord": "ACUPUNTURA",
+    "ProibidaoWords": [ "Agulha", "Chin\u00eas", "Medicinal", "M\u00e9dico", "Dor" ]
+  },
+  {
+    "ProibidaoWord": "PONTO DE TRIC\u00d4",
+    "ProibidaoWords": [ "Fio", "Agulhas", "Pul\u00f4ver", "Croch\u00ea", "La\u00e7ada" ]
+  },
+  {
+    "ProibidaoWord": "FANTASIA",
+    "ProibidaoWords": [ "Imaginar", "Sonho", "Ilha", "Carnaval", "Real" ]
+  },
+  {
+    "ProibidaoWord": "AD\u00c3O",
+    "ProibidaoWords": [ "Eva", "\u00c9den", "Pecado", "Ma\u00e7\u00e3", "Homem" ]
+  },
+  {
+    "ProibidaoWord": "CURANDEIRO",
+    "ProibidaoWords": [ "Mal", "Doen\u00e7a", "Benzer", "Curar", "Paj\u00e9" ]
+  },
+  {
+    "ProibidaoWord": "CORCUNDA",
+    "ProibidaoWords": [ "Corcova", "Quas\u00edmodo", "Tocador de Sino", "Notre Dame", "Deformado" ]
+  },
+  {
+    "ProibidaoWord": "VI\u00daVA",
+    "ProibidaoWords": [ "Morte", "Esposa", "Mulher", "Preto", "Marido" ]
+  },
+  {
+    "ProibidaoWord": "CD",
+    "ProibidaoWords": [ "M\u00fasica", "LP", "Disco", "Laser", "Som" ]
+  },
+  {
+    "ProibidaoWord": "COITADO",
+    "ProibidaoWords": [ "Perdedor", "Favorito", "Vantagem", "Ganhar", "Derrotado" ]
+  },
+  {
+    "ProibidaoWord": "HIST\u00d3RIA",
+    "ProibidaoWords": [ "Conto", "Cantar", "Ninar", "Ler", "Livro" ]
+  },
+  {
+    "ProibidaoWord": "SINAL DE PARE",
+    "ProibidaoWords": [ "Encruzilhada", "Cruzamento", "Dirigir", "Parar", "Vermelho" ]
+  },
+  {
+    "ProibidaoWord": "GELATINA",
+    "ProibidaoWords": [ "Royal", "Sabores", "Sobremesa", "Sacudir", "Colorida" ]
+  },
+  {
+    "ProibidaoWord": "OVO",
+    "ProibidaoWords": [ "Mexido", "Gema", "Galinha", "Frito", "Cozido" ]
+  },
+  {
+    "ProibidaoWord": "ANT\u00cdDOTO",
+    "ProibidaoWords": [ "Veneno", "Cura", "Rem\u00e9dio", "Droga", "Neutralizar" ]
+  },
+  {
+    "ProibidaoWord": "SECRET\u00c1RIA",
+    "ProibidaoWords": [ "Eletr\u00f4nica", "Datilografar", "Telefone", "Assistente", "Escrit\u00f3rio" ]
+  },
+  {
+    "ProibidaoWord": "BEISEBOL",
+    "ProibidaoWords": [ "Taco", "Esporte", "Base", "Bolinha", "Luva" ]
+  },
+  {
+    "ProibidaoWord": "ALFABETO",
+    "ProibidaoWords": [ "Letra", "23", "ABC", "Abeced\u00e1rio", "Aprender" ]
+  },
+  {
+    "ProibidaoWord": "MORTADELA",
+    "ProibidaoWords": [ "P\u00e3o", "Lanche", "Salame", "Porco", "Saundu\u00edche" ]
+  },
+  {
+    "ProibidaoWord": "CENTRO DA CIDADE",
+    "ProibidaoWords": [ "Ir", "Cidade", "Movimento", "Urbano", "Avenida" ]
+  },
+  {
+    "ProibidaoWord": "PASTEL",
+    "ProibidaoWords": [ "Carne", "Queijo", "Frito", "Feira", "Massa" ]
+  },
+  {
+    "ProibidaoWord": "MANICURE",
+    "ProibidaoWords": [ "Unha", "Cut\u00edcula", "Lixa", "M\u00e3o", "Mulher" ]
+  },
+  {
+    "ProibidaoWord": "CAMAR\u00c3O",
+    "ProibidaoWords": [ "Fruto do mar", "Aperitivo", "Pitu/sete-barbas", "Crust\u00e1ceo", "Lagosta" ]
+  },
+  {
+    "ProibidaoWord": "MENOR DE IDADE",
+    "ProibidaoWords": [ "Dirigir", "Adolescente", "Pequeno", "Adulto", "Jovem" ]
+  },
+  {
+    "ProibidaoWord": "CANETA",
+    "ProibidaoWords": [ "Escrever", "Esferogr\u00e1fica", "Hidrogr\u00e1fica", "Bic", "Tinta" ]
+  },
+  {
+    "ProibidaoWord": "ILHA",
+    "ProibidaoWords": [ "Maraj\u00f3", "Oceano", "Cercada", "\u00c1gua", "Terra" ]
+  },
+  {
+    "ProibidaoWord": "ADVOGADO",
+    "ProibidaoWords": [ "Procurador", "Tribunal", "Processo", "Julgamento", "Pris\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "ENXAME",
+    "ProibidaoWords": [ "Abelha", "Colm\u00e9ia", "Verg\u00e3o", "Alergia", "Picada" ]
+  },
+  {
+    "ProibidaoWord": "FUMA\u00c7A",
+    "ProibidaoWords": [ "Detector", "Fogo", "Cachimbo", "Cigarro", "Chamin\u00e9" ]
+  },
+  {
+    "ProibidaoWord": "POSE",
+    "ProibidaoWords": [ "Fotografia", "Modelo", "Foto", "Parada", "Posi\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "TOALHA",
+    "ProibidaoWords": [ "Secar", "Absorver", "Molhado", "Banho", "Banheiro" ]
+  },
+  {
+    "ProibidaoWord": "AVEIA",
+    "ProibidaoWords": [ "Cereal", "Caf\u00e9 da Manh\u00e3", "Biscoito", "Quaker", "Mingau" ]
+  },
+  {
+    "ProibidaoWord": "TOALHA",
+    "ProibidaoWords": [ "Secar", "Absorver", "Molhado", "Banho", "Banheiro" ]
+  },
+  {
+    "ProibidaoWord": "S\u00d3CIO",
+    "ProibidaoWords": [ "Clube", "Pertencer", "Associar", "Taxa", "Organiza\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "FAROL",
+    "ProibidaoWords": [ "Carro", "Luz", "Tr\u00e2nsito", "Embarca\u00e7\u00e3o", "Neblina" ]
+  },
+  {
+    "ProibidaoWord": "ESPIRRO",
+    "ProibidaoWords": [ "P\u00f3", "Sa\u00fade", "Resfriado", "Pimenta", "Nariz" ]
+  },
+  {
+    "ProibidaoWord": "C\u00d3DIGO",
+    "ProibidaoWords": [ "Secreto", "Morse", "Postal", "\u00c1rea", "N\u00famero" ]
+  },
+  {
+    "ProibidaoWord": "BOLICHE",
+    "ProibidaoWords": [ "Pinos", "Derrubar", "Spare", "Strike", "Bola" ]
+  },
+  {
+    "ProibidaoWord": "ADIVINHO",
+    "ProibidaoWords": [ "Ler", "Cigana", "Bola de Cristal", "Futuro", "Palma" ]
+  },
+  {
+    "ProibidaoWord": "FOFOCA",
+    "ProibidaoWords": [ "Vida", "Conversa", "Coluna", "Outro(s)", "Boato" ]
+  },
+  {
+    "ProibidaoWord": "CINZAS",
+    "ProibidaoWords": [ "Queimar", "Lareira", "Cigarro", "Cremar", "Fuma\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "\u00c1LBUM",
+    "ProibidaoWords": [ "Foto", "Figura", "Recorte", "Lembran\u00e7a", "Guardar" ]
+  },
+  {
+    "ProibidaoWord": "CHURRASCO",
+    "ProibidaoWords": [ "Assar", "Carne", "Grelhar", "Fogo", "Carv\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "\u00c1LBUM",
+    "ProibidaoWords": [ "Foto", "Figura", "Recorte", "Lembran\u00e7a", "Guardar" ]
+  },
+  {
+    "ProibidaoWord": "M\u00c9DIA",
+    "ProibidaoWords": [ "Propor\u00e7\u00e3o", "Valor", "Acima", "Metade", "Abaixo" ]
+  },
+  {
+    "ProibidaoWord": "EXERC\u00cdCIO",
+    "ProibidaoWords": [ "Academia", "Sa\u00fade", "Aer\u00f3bica", "Pr\u00e1tica", "Sedent\u00e1rio" ]
+  },
+  {
+    "ProibidaoWord": "BICHANO",
+    "ProibidaoWords": [ "Miau", "Gato", "Ronrom", "Animal", "Filhote" ]
+  },
+  {
+    "ProibidaoWord": "ALERGIA",
+    "ProibidaoWords": [ "\u00c1caro", "Espirro", "Sensibilidade", "Rea\u00e7\u00e3o", "P\u00f3" ]
+  },
+  {
+    "ProibidaoWord": "GUARDA-CHUVA",
+    "ProibidaoWords": [ "Guarda-sol", "Chuva", "Praia", "Seca", "Molhar" ]
+  },
+  {
+    "ProibidaoWord": "ABDOMINAIS",
+    "ProibidaoWords": [ "Barriga", "Abd\u00f4men", "Exerc\u00edcio", "M\u00fasculo", "Ch\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "CAUB\u00d3I",
+    "ProibidaoWords": [ "Chap\u00e9u", "Cavalo", "Rodeio", "Pe\u00e3o", "Barretos" ]
+  },
+  {
+    "ProibidaoWord": "\u00d3CULOS DE SOL",
+    "ProibidaoWords": [ "Luz", "Sombra", "Raio", "Olhos", "Escuro" ]
+  },
+  {
+    "ProibidaoWord": "PRAGA",
+    "ProibidaoWords": [ "Jardim", "Gramado", "Erva-daninha", "Verde", "Crescer" ]
+  },
+  {
+    "ProibidaoWord": "PRESENTE",
+    "ProibidaoWords": [ "Embrulho", "Lembran\u00e7a", "Natal", "Anivers\u00e1rio", "Dar" ]
+  },
+  {
+    "ProibidaoWord": "CALDO DE CANA",
+    "ProibidaoWords": [ "Garapa", "Caldo", "Lim\u00e3o", "Suco", "Doce" ]
+  },
+  {
+    "ProibidaoWord": "CONVITE",
+    "ProibidaoWords": [ "Casamento", "Em m\u00e3os", "Enviar", "Festa", "Amigo" ]
+  },
+  {
+    "ProibidaoWord": "EST\u00c1TUA DA LIBERDADE",
+    "ProibidaoWords": [ "Tocha", "Estados Unidos", "Nova York", "Mulher", "Monumento" ]
+  },
+  {
+    "ProibidaoWord": "LUA-DE-MEL",
+    "ProibidaoWords": [ "Casamento", "Rec\u00e9m-casado", "Noivos", "Viagem", "Depois" ]
+  },
+  {
+    "ProibidaoWord": "CHAVE INGLESA",
+    "ProibidaoWords": [ "Grifo", "Ferramenta", "Mec\u00e2nica", "Apertar", "Chave" ]
+  },
+  {
+    "ProibidaoWord": "ENSOLARADO",
+    "ProibidaoWords": [ "Claro", "Quente", "Ver\u00e3o", "Nublado", "Tempo" ]
+  },
+  {
+    "ProibidaoWord": "PIR\u00c2MIDE",
+    "ProibidaoWords": [ "Egito", "Tumba", "Fara\u00f3", "Tutankamon", "Enterrado" ]
+  },
+  {
+    "ProibidaoWord": "RECHEAR",
+    "ProibidaoWords": [ "Peru", "Torta", "P\u00e3o", "Recheio", "Forno" ]
+  },
+  {
+    "ProibidaoWord": "POSSE",
+    "ProibidaoWords": [ "Janeiro", "Juramento", "Dia", "Presidente", "Cerim\u00f4nia" ]
+  },
+  {
+    "ProibidaoWord": "AQU\u00c1RIO",
+    "ProibidaoWords": [ "Signo", "Peixe", "\u00c1gua", "Mar", "Vidro" ]
+  },
+  {
+    "ProibidaoWord": "PLANTA\u00c7\u00c3O",
+    "ProibidaoWords": [ "Semente", "Terra", "Vegetal", "Fazenda", "Colheita" ]
+  },
+  {
+    "ProibidaoWord": "CONV\u00c9S",
+    "ProibidaoWords": [ "Limpar", "Passagem", "Acertar", "Navio", "Barco" ]
+  },
+  {
+    "ProibidaoWord": "TORPEDO",
+    "ProibidaoWords": [ "Submarino", "Navio", "M\u00edssel", "\u00c1gua", "Explodir" ]
+  },
+  {
+    "ProibidaoWord": "CONV\u00c9S",
+    "ProibidaoWords": [ "Limpar", "Passagem", "Acertar", "Navio", "Barco" ]
+  },
+  {
+    "ProibidaoWord": "TR\u00d3LEBUS",
+    "ProibidaoWords": [ "\u00d4nibus", "El\u00e9trico", "Cabo", "Coletivo", "Rua" ]
+  },
+  {
+    "ProibidaoWord": "PASSARELA",
+    "ProibidaoWords": [ "Modelo", "Moda", "Estilista", "Roupa", "Gisele B\u00fcndchen" ]
+  },
+  {
+    "ProibidaoWord": "CHICOTE",
+    "ProibidaoWords": [ "Couro", "Chibata", "Bater", "A\u00e7oite", "Puni\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "ANATOMIA",
+    "ProibidaoWords": [ "Corpo", "Esqueleto", "M\u00fasculo", "Doutor", "Estudar" ]
+  },
+  {
+    "ProibidaoWord": "ENTREGADOR DE JORNAL",
+    "ProibidaoWords": [ "Jornal", "Distribuir", "Bicicleta", "Entrega", "Manh\u00e3" ]
+  },
+  {
+    "ProibidaoWord": "PILAR",
+    "ProibidaoWords": [ "Poste", "Coluna", "Sustentar", "Firmar", "Suporte" ]
+  },
+  {
+    "ProibidaoWord": "AB\u00d3BORA",
+    "ProibidaoWords": [ "Halloween", "Doce", "Vela", "Laranja", "Cinderela" ]
+  },
+  {
+    "ProibidaoWord": "CINTURA",
+    "ProibidaoWords": [ "Barriga", "Intestino", "Comida", "Corpo", "Fina" ]
+  },
+  {
+    "ProibidaoWord": "BRINQUEDO",
+    "ProibidaoWords": [ "Brincar", "Crian\u00e7as", "Jogo", "Infantil", "Divers\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "DEDAL",
+    "ProibidaoWords": [ "Costurar", "Dedo", "Prote\u00e7\u00e3o", "Agulha", "Furar" ]
+  },
+  {
+    "ProibidaoWord": "DENTE",
+    "ProibidaoWords": [ "Obtura\u00e7\u00e3o", "Dentista", "Boca", "Mastigar", "Branco" ]
+  },
+  {
+    "ProibidaoWord": "QUARTETO",
+    "ProibidaoWords": [ "Quatro", "Conjunto", "M\u00fasica", "Grupo", "Cantores" ]
+  },
+  {
+    "ProibidaoWord": "DISFARCE",
+    "ProibidaoWords": [ "Traje", "Esconder", "Mudan\u00e7a", "Visual", "Apar\u00eancia" ]
+  },
+  {
+    "ProibidaoWord": "MONOGRAMA",
+    "ProibidaoWords": [ "Letras", "Iniciais", "Personalizar", "Nome", "Gravar" ]
+  },
+  {
+    "ProibidaoWord": "FORNO",
+    "ProibidaoWords": [ "Fog\u00e3o", "assar", "Cozinhar", "Comer", "Cozinha" ]
+  },
+  {
+    "ProibidaoWord": "CHIMPANZ\u00c9",
+    "ProibidaoWords": [ "Selva", "Tarzan", "Zool\u00f3gico", "Macaco", "Gorila" ]
+  },
+  {
+    "ProibidaoWord": "MARACUJ\u00c1",
+    "ProibidaoWords": [ "Rugas", "Azedo", "Semente", "Fruta", "Amarelo" ]
+  },
+  {
+    "ProibidaoWord": "CORDA BAMBA",
+    "ProibidaoWords": [ "Circo", "Acrobata", "Balan\u00e7ar", "Andar", "Cair" ]
+  },
+  {
+    "ProibidaoWord": "DUENDE",
+    "ProibidaoWords": [ "Encantado", "Gnomo", "Pequeno", "Papai Noel", "Acreditar" ]
+  },
+  {
+    "ProibidaoWord": "M\u00c1SCARA",
+    "ProibidaoWords": [ "Halloween", "Rosto", "Ver", "Cobrir", "Usar" ]
+  },
+  {
+    "ProibidaoWord": "MUSEU",
+    "ProibidaoWords": [ "Arte", "Antiguidades", "Exibi\u00e7\u00e3o", "Obra", "Cole\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "R\u00c9VEILLON",
+    "ProibidaoWords": [ "Festa", "Fogos de artif\u00edcio", "Janeiro", "Dezembro", "Meia-noite" ]
+  },
+  {
+    "ProibidaoWord": "INTELIGENTE",
+    "ProibidaoWords": [ "Burro", "Esperto", "Intelectual", "Brilhante", "Est\u00fapido" ]
+  },
+  {
+    "ProibidaoWord": "CAMUFLAGEM",
+    "ProibidaoWords": [ "Disfarce", "Uniforme", "Esconder", "Fingir", "Ex\u00e9rcito" ]
+  },
+  {
+    "ProibidaoWord": "VIZINHO",
+    "ProibidaoWords": [ "Morar", "Rua", "Quarteir\u00e3o", "Casa", "Apartamento" ]
+  },
+  {
+    "ProibidaoWord": "PAV\u00c3O",
+    "ProibidaoWords": [ "P\u00e1ssaro", "Cauda", "Orgulhoso", "Colorida", "Pena" ]
+  },
+  {
+    "ProibidaoWord": "AUR\u00c9OLA",
+    "ProibidaoWords": [ "Anjo", "C\u00e9u", "Bem", "Caba\u00e7a", "Asas" ]
+  },
+  {
+    "ProibidaoWord": "DENTADURA",
+    "ProibidaoWords": [ "Velho", "Dente", "Falso", "Boca", "Tirar" ]
+  },
+  {
+    "ProibidaoWord": "CAIPIRINHA",
+    "ProibidaoWords": [ "Gelo", "\u00c1lcool", "Pinga", "Beber", "Lim\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "COMPROMISSO",
+    "ProibidaoWords": [ "Data", "Encontro", "Tempo", "M\u00e9dico", "Dentista" ]
+  },
+  {
+    "ProibidaoWord": "BAINHA",
+    "ProibidaoWords": [ "Bot\u00e3o", "Vestir", "Cal\u00e7as", "Costurar", "Ponto" ]
+  },
+  {
+    "ProibidaoWord": "BRUTO",
+    "ProibidaoWords": [ "\u00d3leo", "Maneira", "Grosseiro", "Vulgar", "Refinado" ]
+  },
+  {
+    "ProibidaoWord": "FIO DENTAL",
+    "ProibidaoWords": [ "Dentista", "Dente", "Escova", "Linha", "Cera" ]
+  },
+  {
+    "ProibidaoWord": "COQUETEL",
+    "ProibidaoWords": [ "Bebida", "\u00e1lcool", "Barman", "Molotov", "Canap\u00e9" ]
+  },
+  {
+    "ProibidaoWord": "RESGATE",
+    "ProibidaoWords": [ "Sequestro", "Dinheiro", "Ref\u00e9m", "Pagamento", "Cativeiro" ]
+  },
+  {
+    "ProibidaoWord": "FANTASMA",
+    "ProibidaoWords": [ "Gasparzinho", "Esp\u00edrito", "Noite", "Len\u00e7ol", "Assombrado" ]
+  },
+  {
+    "ProibidaoWord": "DESLIGADO",
+    "ProibidaoWords": [ "Ligado", "El\u00e9trico", "Aparelho", "Interruptor", "Apagado" ]
+  },
+  {
+    "ProibidaoWord": "RADIOGRAFIA",
+    "ProibidaoWords": [ "Raio X", "Exame", "Hospital", "Osso", "Fratura" ]
+  },
+  {
+    "ProibidaoWord": "FERNANDO HENRIQUE CARDOSO",
+    "ProibidaoWords": [ "Presidente", "Brasil", "Governar", "Soci\u00f3logo", "Plano Real" ]
+  },
+  {
+    "ProibidaoWord": "FUTEBOL",
+    "ProibidaoWords": [ "Pel\u00e9", "Ronaldinho", "Gol", "Esporte", "Jogo" ]
+  },
+  {
+    "ProibidaoWord": "CALDA",
+    "ProibidaoWords": [ "Chocolate", "Sorvete", "Cobertura", "Doce", "Sundae" ]
+  },
+  {
+    "ProibidaoWord": "RUA",
+    "ProibidaoWords": [ "Estrada", "Avenida", "Via", "Dirigir", "Atravessar" ]
+  },
+  {
+    "ProibidaoWord": "FERNANDO DE NORONHA",
+    "ProibidaoWords": [ "Nordeste", "Praia", "F\u00e9ria", "Ilha", "Arquip\u00e9lago" ]
+  },
+  {
+    "ProibidaoWord": "CAMPAINHA",
+    "ProibidaoWords": [ "Telefone", "Tocar", "Port\u00e3o", "Som", "Dedo" ]
+  },
+  {
+    "ProibidaoWord": "AEROPORTO",
+    "ProibidaoWords": [ "Viagem", "Avi\u00e3o", "Rota", "Decolar", "Voar" ]
+  },
+  {
+    "ProibidaoWord": "PANTANAL",
+    "ProibidaoWords": [ "\u00c1gua", "Pescar", "Mato Grosso do Sul", "Jacar\u00e9", "Piranha" ]
+  },
+  {
+    "ProibidaoWord": "ESCRIT\u00d3RIO",
+    "ProibidaoWords": [ "Trabalho", "Neg\u00f3cios", "Mesa", "Emprego", "Empresa" ]
+  },
+  {
+    "ProibidaoWord": "CHAVE",
+    "ProibidaoWords": [ "Porta", "Abrir", "Carro", "Trancar", "Casa" ]
+  },
+  {
+    "ProibidaoWord": "DORMINHOCO",
+    "ProibidaoWords": [ "Sonce", "Cochilo", "Dormir", "Cansado", "Despertador" ]
+  },
+  {
+    "ProibidaoWord": "F\u00c9RIAS",
+    "ProibidaoWords": [ "Viagem", "Trabalho", "Fora", "Ver\u00e3o", "Passear" ]
+  },
+  {
+    "ProibidaoWord": "CIRURGIA",
+    "ProibidaoWords": [ "Hospital", "M\u00e9dico", "Opera\u00e7\u00e3o", "Cortar", "Bisturi" ]
+  },
+  {
+    "ProibidaoWord": "OURO",
+    "ProibidaoWords": [ "Alian\u00e7a", "Metal", "J\u00f3ia", "Prata", "Quilate" ]
+  },
+  {
+    "ProibidaoWord": "DESPENHADEIRO",
+    "ProibidaoWords": [ "Carrasco", "Montanha", "Limite", "Descer", "Passo" ]
+  },
+  {
+    "ProibidaoWord": "COLHEITA",
+    "ProibidaoWords": [ "Planta\u00e7\u00e3o", "Lua", "Colher", "Pegar", "Outono" ]
+  },
+  {
+    "ProibidaoWord": "M\u00c3E-DE-SANTO",
+    "ProibidaoWords": [ "Culto", "Religi\u00e3o", "Branco", "Candombl\u00e9", "Umbanda" ]
+  },
+  {
+    "ProibidaoWord": "CASTOR",
+    "ProibidaoWords": [ "Folha", "\u00c1rvore", "Animal", "Represa", "Dente" ]
+  },
+  {
+    "ProibidaoWord": "ENXAQUECA",
+    "ProibidaoWords": [ "Dor", "Latejar", "Aspirina", "Cab\u00e9ca", "Forte" ]
+  },
+  {
+    "ProibidaoWord": "BANDANA",
+    "ProibidaoWords": [ "Touca", "Len\u00e7o", "Pesco\u00e7o", "Usar", "Cabe\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "JUIZ",
+    "ProibidaoWords": [ "\u00c1rbitro", "Futebol", "Esporte", "Regra", "Apitar" ]
+  },
+  {
+    "ProibidaoWord": "JAMES BOND",
+    "ProibidaoWords": [ "7", "Agente", "Filme", "Nome", "Pierce Brosnan" ]
+  },
+  {
+    "ProibidaoWord": "P\u00c1",
+    "ProibidaoWords": [ "Ferramenta", "Buraco", "Cova", "Areia", "Lixo" ]
+  },
+  {
+    "ProibidaoWord": "CASACO DE PELE",
+    "ProibidaoWords": [ "P\u00ealo", "Animal", "Visom", "Chinchila", "Raposa" ]
+  },
+  {
+    "ProibidaoWord": "REQUEIJ\u00c3O",
+    "ProibidaoWords": [ "Queijo", "P\u00e3o", "Latic\u00ednio", "Cremoso", "Copo" ]
+  },
+  {
+    "ProibidaoWord": "GARGANTA",
+    "ProibidaoWords": [ "Engolir", "Pesco\u00e7o", "Inflamada", "Dor", "Am\u00eddala" ]
+  },
+  {
+    "ProibidaoWord": "GIZ DE CERA",
+    "ProibidaoWords": [ "Pintar", "Crian\u00e7as", "Desenho", "Garotada", "Livro de colorir" ]
+  },
+  {
+    "ProibidaoWord": "FADA DO DENTE",
+    "ProibidaoWords": [ "Cama", "Travesseiro", "Dinheiro", "Imagina\u00e7\u00e3o", "Noite" ]
+  },
+  {
+    "ProibidaoWord": "CORCOVADO",
+    "ProibidaoWords": [ "Monte", "Cristo", "Rio de Janeiro", "Marco", "Alto" ]
+  },
+  {
+    "ProibidaoWord": "RIMA",
+    "ProibidaoWords": [ "Poema", "Som", "Palavras", "Parecido", "Poesia" ]
+  },
+  {
+    "ProibidaoWord": "POLTRONA",
+    "ProibidaoWords": [ "Reclinar", "Sentar", "Descansar", "Sof\u00e1", "Bra\u00e7o" ]
+  },
+  {
+    "ProibidaoWord": "BOTO",
+    "ProibidaoWords": [ "Flipper", "Golfinho", "Cor-de-rosa", "\u00c1gua", "Inteligente" ]
+  },
+  {
+    "ProibidaoWord": "CIRUGI\u00c3O",
+    "ProibidaoWords": [ "M\u00e9dico", "Bisturi", "Hospital", "Cortar", "Opera\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "CARRO FUNER\u00c1RIO",
+    "ProibidaoWords": [ "Funeral", "Caix\u00e3o", "Morte", "Cad\u00e1ver", "Ve\u00edculo" ]
+  },
+  {
+    "ProibidaoWord": "ENTULHO",
+    "ProibidaoWords": [ "Saco", "Juntar", "Lixo", "Jogar", "Restos" ]
+  },
+  {
+    "ProibidaoWord": "MODA",
+    "ProibidaoWords": [ "Estilo", "Mania passageira", "\u00daltima", "Popular", "Moderno" ]
+  },
+  {
+    "ProibidaoWord": "OSTRA",
+    "ProibidaoWords": [ "Comer", "P\u00e9rola", "Concha", "Molusco", "Cru" ]
+  },
+  {
+    "ProibidaoWord": "DESENHO ANIMADO",
+    "ProibidaoWords": [ "Hist\u00f3ria", "Alegre", "S\u00e1bado", "Televis\u00e3o", "Personagem" ]
+  },
+  {
+    "ProibidaoWord": "EST\u00c2NCIA",
+    "ProibidaoWords": [ "Cauboi", "Gado", "Oeste", "Cavalo", "Terra" ]
+  },
+  {
+    "ProibidaoWord": "CADEIA",
+    "ProibidaoWords": [ "Pris\u00e3o", "Cela", "Xadrez", "Condenado", "Grade" ]
+  },
+  {
+    "ProibidaoWord": "COFRINHO",
+    "ProibidaoWords": [ "Crian\u00e7a", "Dinheiro", "Economia", "Moeda", "Porco" ]
+  },
+  {
+    "ProibidaoWord": "DENTADURA",
+    "ProibidaoWords": [ "Pr\u00f3tese", "Dente", "Boca", "Falso", "Dentista" ]
+  },
+  {
+    "ProibidaoWord": "TAVERNA",
+    "ProibidaoWords": [ "Beber", "Hospedaria", "Bar", "Bodega", "Inglaterra" ]
+  },
+  {
+    "ProibidaoWord": "ESPOSA",
+    "ProibidaoWords": [ "Marido", "Casar", "Mulher", "C\u00f4njuge", "Noiva" ]
+  },
+  {
+    "ProibidaoWord": "FONTE",
+    "ProibidaoWords": [ "\u00c1gua", "Rio", "Nascente", "Brotar", "Chafariz" ]
+  },
+  {
+    "ProibidaoWord": "MATRIM\u00d4NIO",
+    "ProibidaoWords": [ "Casamento", "Marido", "Esposa", "Cerim\u00f4nia", "Jura" ]
+  },
+  {
+    "ProibidaoWord": "TABLADO",
+    "ProibidaoWords": [ "Discurso", "Microfone", "Posi\u00e7\u00e3o", "Audi\u00eancia", "Confer\u00eancia" ]
+  },
+  {
+    "ProibidaoWord": "SOMBRA",
+    "ProibidaoWords": [ "Luz", "Sol", "Olho", "Posi\u00e7\u00e3o", "Fazer" ]
+  },
+  {
+    "ProibidaoWord": "INFANTIL",
+    "ProibidaoWords": [ "Beb\u00ea", "Rec\u00e9m-nascido", "Crian\u00e7a", "Jovem", "Pequeno" ]
+  },
+  {
+    "ProibidaoWord": "SELO",
+    "ProibidaoWords": [ "Colecionar", "Envelope", "Carta", "Enviar", "Lamber" ]
+  },
+  {
+    "ProibidaoWord": "DARDO",
+    "ProibidaoWords": [ "Lan\u00e7ar", "Arremessar", "Alvo", "Pontudo", "Acertar" ]
+  },
+  {
+    "ProibidaoWord": "FANTOCHE",
+    "ProibidaoWords": [ "Teatro", "Marionete", "Brincar", "M\u00e3o", "Pano" ]
+  },
+  {
+    "ProibidaoWord": "TARZAN",
+    "ProibidaoWords": [ "Jane", "Selva", "Chita", "Ma\u00e7\u00e3", "Cip\u00f3" ]
+  },
+  {
+    "ProibidaoWord": "CORTE",
+    "ProibidaoWords": [ "Juiz", "Tribunal", "Julgamento", "J\u00fari", "R\u00e9u" ]
+  },
+  {
+    "ProibidaoWord": "EST\u00c1DIO",
+    "ProibidaoWords": [ "Futebol", "Esporte", "Espectador", "Jogo", "Lugar" ]
+  },
+  {
+    "ProibidaoWord": "BOINA",
+    "ProibidaoWords": [ "Chap\u00e9u", "Fran\u00e7a", "Capuz", "Cabe\u00e7a", "Artista" ]
+  },
+  {
+    "ProibidaoWord": "VALENTE",
+    "ProibidaoWords": [ "Intr\u00e9pido", "Medo", "Perigoso", "Corajoso", "Forte" ]
+  },
+  {
+    "ProibidaoWord": "RIO DE JANEIRO",
+    "ProibidaoWords": [ "Corcovado", "Copacabana", "P\u00e3o de A\u00e7ucar", "Ipanema", "Praia" ]
+  },
+  {
+    "ProibidaoWord": "AGULHA",
+    "ProibidaoWords": [ "Costurar", "Linha", "Palheiro", "Buraco", "Acupuntura" ]
+  },
+  {
+    "ProibidaoWord": "CORTADOR DE GRAMA",
+    "ProibidaoWords": [ "Jardim", "Cortar", "Aparar", "Grama/mato", "Verde" ]
+  },
+  {
+    "ProibidaoWord": "CARTA",
+    "ProibidaoWords": [ "Mandar", "Baralho", "Truco", "Envelope", "Jogar" ]
+  },
+  {
+    "ProibidaoWord": "C\u00cdRCULO",
+    "ProibidaoWords": [ "Forma", "Redondo", "Anel", "360 graus", "Quadrado" ]
+  },
+  {
+    "ProibidaoWord": "CA\u00c7A N\u00cdQUEL",
+    "ProibidaoWords": [ "Moeda", "Jogar", "M\u00e1quina", "Figuras", "Las Vegas" ]
+  },
+  {
+    "ProibidaoWord": "TORNADO",
+    "ProibidaoWords": [ "Furac\u00e3o", "Vento", "Funil", "Tempestade", "Ciclone" ]
+  },
+  {
+    "ProibidaoWord": "OUTDOOR",
+    "ProibidaoWords": [ "Propaganda", "Margem da Estrada", "Rodovia", "Placa", "Dirigir" ]
+  },
+  {
+    "ProibidaoWord": "HIMALAIA",
+    "ProibidaoWords": [ "Montanha", "Everest", "Alto", "Escalar", "Pico" ]
+  },
+  {
+    "ProibidaoWord": "J\u00d3IA",
+    "ProibidaoWords": [ "Gema", "Pedra", "Diamante", "Rubi", "Presente" ]
+  },
+  {
+    "ProibidaoWord": "XADREZ",
+    "ProibidaoWords": [ "Jogo", "Tabuleiro", "Rei", "Torre", "Cavalo" ]
+  },
+  {
+    "ProibidaoWord": "QUEBRA NOZES",
+    "ProibidaoWords": [ "Bal\u00e9", "Abrir", "Su\u00edte", "Natal", "Dan\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "CRUZEIRO",
+    "ProibidaoWords": [ "Navio", "F\u00e9rias", "Barco", "Transatl\u00e2ntico", "Mar" ]
+  },
+  {
+    "ProibidaoWord": "PECHINCHAR",
+    "ProibidaoWords": [ "Pre\u00e7o", "Negociar", "Atacado", "Compra", "Reduzir" ]
+  },
+  {
+    "ProibidaoWord": "APLAUSO",
+    "ProibidaoWords": [ "Viva", "Palmas", "Ova\u00e7\u00e3o", "Fim", "M\u00e3os" ]
+  },
+  {
+    "ProibidaoWord": "FAVELA",
+    "ProibidaoWords": [ "Barraco", "Cidade", "Pobre", "Morro", "Viver" ]
+  },
+  {
+    "ProibidaoWord": "ANTONIO FAGUNDES",
+    "ProibidaoWords": [ "Ator", "Artista", "TV", "Gal\u00e3", "Novela" ]
+  },
+  {
+    "ProibidaoWord": "CHAL\u00c9",
+    "ProibidaoWords": [ "Su\u00ed\u00e7o", "Casa", "Madeira", "Choupana", "Montanha" ]
+  },
+  {
+    "ProibidaoWord": "TELHA",
+    "ProibidaoWords": [ "Telhado", "Casa", "Em Cima", "Teto", "Chuva" ]
+  },
+  {
+    "ProibidaoWord": "TAPETE",
+    "ProibidaoWords": [ "Ch\u00e3o", "Carpete", "Oriental", "Decora\u00e7\u00e3o", "Felpudo" ]
+  },
+  {
+    "ProibidaoWord": "JORGE AMADO",
+    "ProibidaoWords": [ "Escritor", "Bahia", "Gabriela", "Brasil", "Livro" ]
+  },
+  {
+    "ProibidaoWord": "ENGANO",
+    "ProibidaoWords": [ "Erro", "Asneira", "Cometer", "Errado", "Certo" ]
+  },
+  {
+    "ProibidaoWord": "BLUSA",
+    "ProibidaoWords": [ "Camiseta", "Superior", "Roupa", "Vestir", "Saia" ]
+  },
+  {
+    "ProibidaoWord": "SIRENE",
+    "ProibidaoWords": [ "Fogo", "Pol\u00edcia", "Ambul\u00e2ncia", "Ouvir", "Barulho" ]
+  },
+  {
+    "ProibidaoWord": "PATA",
+    "ProibidaoWords": [ "P\u00e9", "Animal", "Garra", "Pato", "Perna" ]
+  },
+  {
+    "ProibidaoWord": "SEDE",
+    "ProibidaoWords": [ "Beber", "Seco", "\u00c1gua", "Saciar", "L\u00edquido" ]
+  },
+  {
+    "ProibidaoWord": "PROFESSOR",
+    "ProibidaoWords": [ "Instrutor", "Aprender", "Escola", "Aluno", "Mestre" ]
+  },
+  {
+    "ProibidaoWord": "LA\u00c7O",
+    "ProibidaoWords": [ "Peco\u00e7o", "Amarrar", "Corda", "N\u00f3", "Sapato" ]
+  },
+  {
+    "ProibidaoWord": "XAMPU",
+    "ProibidaoWords": [ "Lavar", "Cabelo", "Ensaboar", "Espuma", "Condicionador" ]
+  },
+  {
+    "ProibidaoWord": "ARTILHEIRO",
+    "ProibidaoWords": [ "Futebol", "Gol", "Bola", "Chutar", "Mais" ]
+  },
+  {
+    "ProibidaoWord": "ALGOD\u00c3O",
+    "ProibidaoWords": [ "Branco", "Bola", "Tecido", "Material", "Johnson&Johnson" ]
+  },
+  {
+    "ProibidaoWord": "CARBONO",
+    "ProibidaoWords": [ "Nota Fiscal", "Preto", "Sujar", "Copiar", "Papel" ]
+  },
+  {
+    "ProibidaoWord": "CONVEN\u00c7\u00c3O",
+    "ProibidaoWords": [ "Congresso", "Encontro", "Acordo", "Reuni\u00e3o", "Tratado" ]
+  },
+  {
+    "ProibidaoWord": "BELEZA",
+    "ProibidaoWords": [ "Mulher", "Concurso", "Superficial", "Bonita", "Apar\u00eancia" ]
+  },
+  {
+    "ProibidaoWord": "JUVENIL",
+    "ProibidaoWords": [ "Imaturo", "Adolescente", "Mo\u00e7ada", "Adulto", "Jovem" ]
+  },
+  {
+    "ProibidaoWord": "BINGO",
+    "ProibidaoWords": [ "Dinheiro", "Cartela", "N\u00famero", "Jogo", "Completar" ]
+  },
+  {
+    "ProibidaoWord": "COLCH\u00c3O",
+    "ProibidaoWords": [ "Cama", "Dormir", "Mola", "Espuma", "Len\u00e7ol" ]
+  },
+  {
+    "ProibidaoWord": "IDADE DA PEDRA",
+    "ProibidaoWords": [ "Homem das Cavernas", "Flinstones", "Pr\u00e9-hist\u00f3rico", "Tempo", "Dinossauro" ]
+  },
+  {
+    "ProibidaoWord": "PARTE",
+    "ProibidaoWords": [ "Divis\u00e3o", "Por\u00e7\u00e3o", "Todo", "Peda\u00e7o", "Algum" ]
+  },
+  {
+    "ProibidaoWord": "GEL\u00c9IA",
+    "ProibidaoWords": [ "Doce", "Caf\u00e9 da manh\u00e3", "P\u00e3o", "Fruta", "Torrada" ]
+  },
+  {
+    "ProibidaoWord": "SORVETEIRO",
+    "ProibidaoWords": [ "Sorvete", "Vender", "Servir", "Gelado", "Tomar" ]
+  },
+  {
+    "ProibidaoWord": "CONSERVA",
+    "ProibidaoWords": [ "Azeitona", "Comida", "Lata", "Embalagem", "Atum" ]
+  },
+  {
+    "ProibidaoWord": "ESTRESSE",
+    "ProibidaoWords": [ "Nervoso", "Tens\u00e3o", "Press\u00e3o", "Ansiedade", "Trabalho" ]
+  },
+  {
+    "ProibidaoWord": "ROTINA",
+    "ProibidaoWords": [ "Lembrar", "Sentimento", "H\u00e1bito", "Sempre", "Repetir" ]
+  },
+  {
+    "ProibidaoWord": "FRAQUE",
+    "ProibidaoWords": [ "Formal", "Alugar", "Casamento", "Roupa", "Homem" ]
+  },
+  {
+    "ProibidaoWord": "PICACHU",
+    "ProibidaoWords": [ "Monstro", "Amarelo", "Desenho animado", "Pok\u00e9mon", "Choque" ]
+  },
+  {
+    "ProibidaoWord": "DATA",
+    "ProibidaoWords": [ "Calend\u00e1rio", "Dia", "M\u00eas", "Ani", "Tempo" ]
+  },
+  {
+    "ProibidaoWord": "CACTO",
+    "ProibidaoWords": [ "Crescer", "Espinho", "Deserto", "Planta", "Afiado" ]
+  },
+  {
+    "ProibidaoWord": "RATOEIRA",
+    "ProibidaoWords": [ "Matar", "Roedor", "Rato", "Pegar", "Queijo" ]
+  },
+  {
+    "ProibidaoWord": "VUDU",
+    "ProibidaoWords": [ "Boneco", "Alfinete", "Espetar", "Zumbi", "Maldi\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "CLIPE",
+    "ProibidaoWords": [ "Papel", "Escrit\u00f3rio", "Grampo", "Metal", "Junto" ]
+  },
+  {
+    "ProibidaoWord": "IMAGEM",
+    "ProibidaoWords": [ "Fotografia", "Pintura", "Quadro", "C\u00e2mera", "Filme" ]
+  },
+  {
+    "ProibidaoWord": "ADUBO",
+    "ProibidaoWords": [ "Fazenda", "Vaca", "Fertilizante", "Espalhar", "Fedor" ]
+  },
+  {
+    "ProibidaoWord": "P\u00d3LO",
+    "ProibidaoWords": [ "Esporte", "Cavalo", "Im\u00e3", "Camisa", "Norte / Sul" ]
+  },
+  {
+    "ProibidaoWord": "BLOCO",
+    "ProibidaoWords": [ "Carnaval", "Apartamento", "Constru\u00e7\u00e3o", "Papel", "Notas" ]
+  },
+  {
+    "ProibidaoWord": "ASPIRINA",
+    "ProibidaoWords": [ "Comprimido", "Enxaqueca", "Rem\u00e9dio", "Tomar", "Droga" ]
+  },
+  {
+    "ProibidaoWord": "UVA-PASSA",
+    "ProibidaoWords": [ "Uva", "Fruta", "Seca", "Ameixa", "Enrugado" ]
+  },
+  {
+    "ProibidaoWord": "BANDIDO",
+    "ProibidaoWords": [ "Ladr\u00e3o", "Assaltante", "Mascarado", "Roubar", "Burlar" ]
+  },
+  {
+    "ProibidaoWord": "COR-DE-ROSA",
+    "ProibidaoWords": [ "Cor", "Beb\u00ea", "Menina", "Pantera", "Vermelho" ]
+  },
+  {
+    "ProibidaoWord": "ESCORREDOR DE MACARR\u00c3O",
+    "ProibidaoWords": [ "Massa", "Buracos", "Tigela", "Peneira", "\u00c1gua" ]
+  },
+  {
+    "ProibidaoWord": "UNGUENTO",
+    "ProibidaoWords": [ "Esfregar", "Lo\u00e7\u00e3o", "Medica\u00e7\u00e3o", "Pele", "Creme" ]
+  },
+  {
+    "ProibidaoWord": "TOALETE",
+    "ProibidaoWords": [ "Vaso", "Descarga", "Sentar", "Privada", "Banheiro" ]
+  },
+  {
+    "ProibidaoWord": "LAPTOP",
+    "ProibidaoWords": [ "Computador", "Micro", "Levar", "Desktop", "Port\u00e1til" ]
+  },
+  {
+    "ProibidaoWord": "QUILO",
+    "ProibidaoWords": [ "Peso", "Gordura", "Grama", "Balan\u00e7a", "Calorias" ]
+  },
+  {
+    "ProibidaoWord": "ANZOL",
+    "ProibidaoWords": [ "Peixe", "Vara", "Minhoca", "Pescar", "Peixe" ]
+  },
+  {
+    "ProibidaoWord": "BATATA FRITA",
+    "ProibidaoWords": [ "Hamb\u00farguer", "Salgada", "Sal", "Ketchup", "Chips" ]
+  },
+  {
+    "ProibidaoWord": "ADESIVO",
+    "ProibidaoWords": [ "Cola", "Vidro", "Colar", "Fita", "Junto" ]
+  },
+  {
+    "ProibidaoWord": "S\u00d3T\u00c3O",
+    "ProibidaoWords": [ "Celeiro", "Teto", "Casa", "Dep\u00f3sito", "Aposento" ]
+  },
+  {
+    "ProibidaoWord": "PORTO",
+    "ProibidaoWords": [ "Naivo", "Doca", "Vinho", "Ancorar", "Estibordo" ]
+  },
+  {
+    "ProibidaoWord": "I\u00d4-I\u00d4",
+    "ProibidaoWords": [ "Brinquedo", "Cord\u00e3o", "Cima", "Baixo", "Esticar" ]
+  },
+  {
+    "ProibidaoWord": "ACIDENTE",
+    "ProibidaoWords": [ "Erro", "Carro", "Quebrar", "Tr\u00e1fego", "Dirigir" ]
+  },
+  {
+    "ProibidaoWord": "PROMESSA",
+    "ProibidaoWords": [ "Pagar", "Joelho", "Rezar", "Cumprir", "Pedido" ]
+  },
+  {
+    "ProibidaoWord": "SU\u00c9TER",
+    "ProibidaoWords": [ "Vestir", "Frio", "Tric\u00f4", "L\u00e3", "Malha" ]
+  },
+  {
+    "ProibidaoWord": "BER\u00c7O",
+    "ProibidaoWords": [ "Cama", "Dormir", "Beb\u00ea", "De ouro", "Crian\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "CART\u00c3O DE CR\u00c9DITO",
+    "ProibidaoWords": [ "Pl\u00e1stico", "Despesa", "Pagamento", "Visa", "Mastercard" ]
+  },
+  {
+    "ProibidaoWord": "JEEP",
+    "ProibidaoWords": [ "Ve\u00edculo", "Carro", "Rally", "Terreno", "Tra\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "JUNTA",
+    "ProibidaoWords": [ "Metal", "M\u00e3o", "Unir", "Dedo", "Quebrar" ]
+  },
+  {
+    "ProibidaoWord": "GRILO",
+    "ProibidaoWords": [ "Falante", "Inseto", "Bicho", "Sorte", "Hippie" ]
+  },
+  {
+    "ProibidaoWord": "TIJOLO",
+    "ProibidaoWords": [ "Bloco", "Olaria", "Barro", "Peda\u00e7o", "Constru\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "LITRO",
+    "ProibidaoWords": [ "Unidade de medida", "Quarto", "Gasolina", "Garrafa", "L\u00edquido" ]
+  },
+  {
+    "ProibidaoWord": "ROBE",
+    "ProibidaoWords": [ "Mulher", "Sedutora", "Roup\u00e3o", "Vestir", "Em casa" ]
+  },
+  {
+    "ProibidaoWord": "ESPECTADOR",
+    "ProibidaoWords": [ "Observador", "Plat\u00e9ia", "Testemunha", "Assistir", "Ver" ]
+  },
+  {
+    "ProibidaoWord": "MINGAU",
+    "ProibidaoWords": [ "Papa", "Maisena", "Aveia", "Comer", "Crian\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "FUTEBOL DE BOT\u00c3O",
+    "ProibidaoWords": [ "Jogo", "Mesa", "Jogador", "Tampa de rel\u00f3gio", "Gol" ]
+  },
+  {
+    "ProibidaoWord": "COAXO",
+    "ProibidaoWords": [ "Sapo", "R\u00e3", "Brejo", "Som", "Barulho" ]
+  },
+  {
+    "ProibidaoWord": "IMPEDIMENTO",
+    "ProibidaoWords": [ "Futebol", "Jogador", "Zagueiro", "Lan\u00e7amento", "Passe" ]
+  },
+  {
+    "ProibidaoWord": "TEATRO",
+    "ProibidaoWords": [ "Broadway", "Pe\u00e7a", "Atores", "Palco", "Cinema" ]
+  },
+  {
+    "ProibidaoWord": "BATALHA",
+    "ProibidaoWords": [ "Guerra", "Luta", "Ex\u00e9rcito", "Conflito", "Combate" ]
+  },
+  {
+    "ProibidaoWord": "CENTAVO",
+    "ProibidaoWords": [ "Dinheiro", "Moeda", "Cara", "Coroa", "Real" ]
+  },
+  {
+    "ProibidaoWord": "TELESC\u00d3PIO",
+    "ProibidaoWords": [ "Estrelas", "Observat\u00f3rio", "Astr\u00f4nomos", "Planetas", "Vis\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "T\u00caNIS",
+    "ProibidaoWords": [ "Cal\u00e7ado", "Corrida", "Cadar\u00e7o", "Cano alto", "Esporte" ]
+  },
+  {
+    "ProibidaoWord": "ASTRONAUTA",
+    "ProibidaoWords": [ "Espa\u00e7o", "Lan\u00e7ar", "Lua", "Neil Armstrong", "Nasa" ]
+  },
+  {
+    "ProibidaoWord": "ANABOLIZANTE",
+    "ProibidaoWords": [ "Atleta", "Corpo", "Horm\u00f4nio", "M\u00fasculo", "Ester\u00f3ide" ]
+  },
+  {
+    "ProibidaoWord": "DOCE",
+    "ProibidaoWords": [ "A\u00e7\u00facar", "Padaria", "Rosquinha", "Sobremesa", "Comer" ]
+  },
+  {
+    "ProibidaoWord": "DIRIG\u00cdVEL",
+    "ProibidaoWords": [ "Goodyear", "Zepelim", "Voar", "Bal\u00e3o", "Ve\u00edculo" ]
+  },
+  {
+    "ProibidaoWord": "GOLFINHO",
+    "ProibidaoWords": [ "Flipper", "Boto", "Mam\u00edfero", "Peixe", "Mar" ]
+  },
+  {
+    "ProibidaoWord": "DEPOIMENTO",
+    "ProibidaoWords": [ "Tribunal", "Evid\u00eancia", "Testemunha", "Dar", "Juramento" ]
+  },
+  {
+    "ProibidaoWord": "AMN\u00c9SIA",
+    "ProibidaoWords": [ "Esquecer", "Mem\u00f3ria", "Lembrar", "Cabe\u00e7a", "Pancada" ]
+  },
+  {
+    "ProibidaoWord": "PENTE",
+    "ProibidaoWords": [ "Cabelo", "Escova", "Dividir", "Fino", "Cabe\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "CRIME",
+    "ProibidaoWords": [ "Prender", "Lei", "Ilegal", "Cometer", "Pris\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "CIENTISTA",
+    "ProibidaoWords": [ "Estudo", "Laborat\u00f3rio", "Experi\u00eancia", "Microsc\u00f3pio", "Pesquisa" ]
+  },
+  {
+    "ProibidaoWord": "MANS\u00c3O",
+    "ProibidaoWords": [ "Casa", "Lar", "Propriedade", "Morar", "Rico" ]
+  },
+  {
+    "ProibidaoWord": "DIVIS\u00c3O",
+    "ProibidaoWords": [ "Matem\u00e1tica", "Multiplica\u00e7\u00e3o", "Por", "N\u00famero", "Repartir" ]
+  },
+  {
+    "ProibidaoWord": "SOF\u00c1",
+    "ProibidaoWords": [ "Poltrona", "Televis\u00e3o", "Sentar", "M\u00f3veis", "Estofado" ]
+  },
+  {
+    "ProibidaoWord": "ATLAS",
+    "ProibidaoWords": [ "Mapa", "Livro", "Cartaz", "Mundo", "Globo" ]
+  },
+  {
+    "ProibidaoWord": "COMPUTADOR",
+    "ProibidaoWords": [ "IBM", "Microsoft", "Teclado", "Software", "Programa" ]
+  },
+  {
+    "ProibidaoWord": "PINHEIRO",
+    "ProibidaoWords": [ "Pendurar", "\u00c1rvore", "Natal", "Verde", "Embaixo" ]
+  },
+  {
+    "ProibidaoWord": "BUMERANGUE",
+    "ProibidaoWords": [ "Retornar", "Jogar", "Lan\u00e7ar", "Ar", "Volta" ]
+  },
+  {
+    "ProibidaoWord": "MELANCIA",
+    "ProibidaoWords": [ "Fruta", "Caro\u00e7o", "Piquenique", "Magali", "Verde" ]
+  },
+  {
+    "ProibidaoWord": "CAF\u00c9",
+    "ProibidaoWords": [ "Ch\u00e1", "Beber", "Cafe\u00edna", "Manh\u00e3", "X\u00edcara" ]
+  },
+  {
+    "ProibidaoWord": "EX\u00c9RCITO",
+    "ProibidaoWords": [ "Marinha", "Soldado", "Contingente", "Servi\u00e7o", "Militar" ]
+  },
+  {
+    "ProibidaoWord": "PREGAR",
+    "ProibidaoWords": [ "Segurar", "Fixar", "Apertar", "Firme", "Prender" ]
+  },
+  {
+    "ProibidaoWord": "PLANTA",
+    "ProibidaoWords": [ "Vaso", "\u00c1gua", "Jardim", "Folhas", "Crescer" ]
+  },
+  {
+    "ProibidaoWord": "CAVAQUINHO",
+    "ProibidaoWords": [ "Viol\u00e3o", "M\u00fasica", "Instrumento", "Corda", "Pagode" ]
+  },
+  {
+    "ProibidaoWord": "BIBLIOTECA",
+    "ProibidaoWords": [ "Livro", "Emprestar", "Ficha", "Ler", "Sil\u00eancio" ]
+  },
+  {
+    "ProibidaoWord": "BEBIDA",
+    "ProibidaoWords": [ "Beber", "Copo", "L\u00edquido", "Comida", "Sede" ]
+  },
+  {
+    "ProibidaoWord": "SOFTWARE",
+    "ProibidaoWords": [ "Programa", "Computador", "Instalar", "Disquete/CD-ROM", "Linguagem" ]
+  },
+  {
+    "ProibidaoWord": "NEVASCA",
+    "ProibidaoWords": [ "Tempestade de neve", "Inverno", "Branco", "Vento", "Frio" ]
+  },
+  {
+    "ProibidaoWord": "COINCID\u00caNCIA",
+    "ProibidaoWords": [ "Igual", "Ocorrer", "Acontecer", "Mesma coisa", "Possibilidade" ]
+  },
+  {
+    "ProibidaoWord": "BANCO",
+    "ProibidaoWords": [ "Sentar", "Dinheiro", "Dep\u00f3sito", "Assento", "Pra\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "FOGUEIRA",
+    "ProibidaoWords": [ "Queimar", "Acampamento", "Praia", "Fogo", "Lenha" ]
+  },
+  {
+    "ProibidaoWord": "V\u00cdBORA",
+    "ProibidaoWords": [ "Cobra", "Cle\u00f3patra", "Veneno", "Picada", "Egito" ]
+  },
+  {
+    "ProibidaoWord": "GARAGEM",
+    "ProibidaoWords": [ "Carro", "Estacionar", "Casa", "Autom\u00f3vel", "Dentro" ]
+  },
+  {
+    "ProibidaoWord": "BILHAR",
+    "ProibidaoWords": [ "Mesa", "Jogo", "Ca\u00e7apa", "Bola", "Taco" ]
+  },
+  {
+    "ProibidaoWord": "BANQUETE",
+    "ProibidaoWords": [ "Comer", "Festa", "Comida", "Jantar", "Discurso" ]
+  },
+  {
+    "ProibidaoWord": "ANIVERS\u00c1RIO",
+    "ProibidaoWords": [ "Feliz", "Parab\u00e9ns", "Vela", "Presente", "Bolo" ]
+  },
+  {
+    "ProibidaoWord": "HELIC\u00d3PTERO",
+    "ProibidaoWords": [ "Palheta", "Rico", "H\u00e9lice", "Voar", "Avi\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "BONIT\u00c3O",
+    "ProibidaoWords": [ "Atraente", "Deslumbrante", "Bonito", "Cara", "Visual" ]
+  },
+  {
+    "ProibidaoWord": "PIPOCA",
+    "ProibidaoWords": [ "Gr\u00e3o", "Cinema", "Estourar", "Microondas", "Milho" ]
+  },
+  {
+    "ProibidaoWord": "PORCO",
+    "ProibidaoWords": [ "Sujeira", "Oinc", "Animal", "Leit\u00e3o", "Chiqueiro" ]
+  },
+  {
+    "ProibidaoWord": "VARANDA",
+    "ProibidaoWords": [ "Balc\u00e3o", "Terra\u00e7o", "P\u00e1tio", "Cobertura", "Casa" ]
+  },
+  {
+    "ProibidaoWord": "OCEANO",
+    "ProibidaoWords": [ "Atl\u00e2ntico", "Pac\u00edfico", "Mar", "\u00c1gua", "\u00cdndico" ]
+  },
+  {
+    "ProibidaoWord": "SINAL",
+    "ProibidaoWords": [ "M\u00e3o", "Vire", "Placa", "Acender", "Tr\u00e2nsito" ]
+  },
+  {
+    "ProibidaoWord": "OSCAR",
+    "ProibidaoWords": [ "Melhor", "Filme", "Pr\u00eamio", "Estatueta", "Indica\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "TERM\u00d4METRO",
+    "ProibidaoWords": [ "Febre", "Axila", "Calor", "Frio", "Temperatura" ]
+  },
+  {
+    "ProibidaoWord": "PELADO",
+    "ProibidaoWords": [ "Roupa", "Stripper", "Nu", "Nudismo", "Despir" ]
+  },
+  {
+    "ProibidaoWord": "ESCORPI\u00c3O",
+    "ProibidaoWords": [ "Deserto", "Picada", "Rabo", "Veneno", "Signo" ]
+  },
+  {
+    "ProibidaoWord": "LENTES DE CONTATO",
+    "ProibidaoWords": [ "Olhos", "Vis\u00e3o", "\u00d3culos", "Usar", "Enxergar" ]
+  },
+  {
+    "ProibidaoWord": "L\u00c1PIDE",
+    "ProibidaoWords": [ "Cova", "Pedra", "Epit\u00e1fio", "Cemit\u00e9rio", "Enterrar" ]
+  },
+  {
+    "ProibidaoWord": "INVIS\u00cdVEL",
+    "ProibidaoWords": [ "Fantasma", "Esp\u00edrito", "Aparecer", "Transparente", "Homem" ]
+  },
+  {
+    "ProibidaoWord": "CHICLETE",
+    "ProibidaoWords": [ "Mascar", "Figurinha", "Bubaloo", "Bola", "Boca" ]
+  },
+  {
+    "ProibidaoWord": "EXPLODIR",
+    "ProibidaoWords": [ "Dinamite", "Explos\u00e3o", "Estouro", "Estrondo", "Disparo" ]
+  },
+  {
+    "ProibidaoWord": "C\u00c1LICE",
+    "ProibidaoWords": [ "Copo", "Beber", "\u00c1gua", "Ta\u00e7a", "Cristal" ]
+  },
+  {
+    "ProibidaoWord": "MORANGO",
+    "ProibidaoWords": [ "Fruta", "Azeda", "Vermelho", "Gel\u00e9ia", "Sorvete" ]
+  },
+  {
+    "ProibidaoWord": "MEL\u00c3O",
+    "ProibidaoWords": [ "Fruta", "Melancia", "Amarelo", "Semente", "Abrir" ]
+  },
+  {
+    "ProibidaoWord": "COCEIRA",
+    "ProibidaoWords": [ "Pele", "Co\u00e7ar", "Esfregar", "Urtic\u00e1ria", "Picada" ]
+  },
+  {
+    "ProibidaoWord": "DISCUSS\u00c3O",
+    "ProibidaoWords": [ "Debate", "Briga", "Disputa", "Voz", "Gritar" ]
+  },
+  {
+    "ProibidaoWord": "AM\u00cdDALA",
+    "ProibidaoWords": [ "Garganta", "Opera\u00e7\u00e3o", "Sorvete", "Tirar", "Cirurgia" ]
+  },
+  {
+    "ProibidaoWord": "MAURICINHO",
+    "ProibidaoWords": [ "Playboy", "Rico", "Jovem", "Moda", "Dinheiro" ]
+  },
+  {
+    "ProibidaoWord": "ENVELHECIDO",
+    "ProibidaoWords": [ "Antigo", "Embolorado", "Seco", "U\u00edsque", "Fresco" ]
+  },
+  {
+    "ProibidaoWord": "HIPNOSE",
+    "ProibidaoWords": [ "Transe", "Dormir", "Rel\u00f3gio", "Formigar", "Subconsciente" ]
+  },
+  {
+    "ProibidaoWord": "RENUNCIAR",
+    "ProibidaoWords": [ "Resignar", "Parar", "Dar", "Cargo", "Despedir" ]
+  },
+  {
+    "ProibidaoWord": "PEGADOR DE PANELA",
+    "ProibidaoWords": [ "Luva", "M\u00e3o", "Quente", "Forno", "Queimar" ]
+  },
+  {
+    "ProibidaoWord": "CAIXA DE CORREIO",
+    "ProibidaoWords": [ "Selo", "Correio", "Carta", "Envelope", "Mandar" ]
+  },
+  {
+    "ProibidaoWord": "MAIONESE",
+    "ProibidaoWords": [ "Hellmans", "Sanduiche", "Hamburguer", "Passar", "Hot dog" ]
+  },
+  {
+    "ProibidaoWord": "ALIEN",
+    "ProibidaoWords": [ "Alien\u00edgena", "Criatura", "Espa\u00e7o", "Planeta", "Sigourney Weaver" ]
+  },
+  {
+    "ProibidaoWord": "MARFIM",
+    "ProibidaoWords": [ "Branco", "Osso", "Presa", "Elefante", "Dente" ]
+  },
+  {
+    "ProibidaoWord": "LIXEIRA",
+    "ProibidaoWords": [ "Lixo", "Resto", "Entulho", "Cesto", "Sujeira" ]
+  },
+  {
+    "ProibidaoWord": "METR\u00d4",
+    "ProibidaoWords": [ "Subterr\u00e2neo", "Trem", "Trilho", "Cidade", "Bilhete" ]
+  },
+  {
+    "ProibidaoWord": "MA\u00c7\u00c3",
+    "ProibidaoWords": [ "Vermelho", "Fruta", "Torta", "Cidra", "Caro\u00e7o" ]
+  },
+  {
+    "ProibidaoWord": "OCA",
+    "ProibidaoWords": [ "\u00cdndio", "Barraca", "Cabana", "Morar", "Casa" ]
+  },
+  {
+    "ProibidaoWord": "IMPRENSA",
+    "ProibidaoWords": [ "\u00d3rg\u00e3o", "Rep\u00f3rter", "Jornal", "M\u00eddia", "Confer\u00eancia" ]
+  },
+  {
+    "ProibidaoWord": "CEN\u00c1RIO",
+    "ProibidaoWords": [ "Vista", "Beleza", "Panorama", "Paisagem", "Mudan\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "BOLINHA DE SAB\u00c3O",
+    "ProibidaoWords": [ "Sab\u00e3o", "Espuma", "Lavar", "Ensaboar", "Bolhas" ]
+  },
+  {
+    "ProibidaoWord": "R\u00c1DIO",
+    "ProibidaoWords": [ "AM/FM", "M\u00fasica", "Est\u00e9reo", "Ouvir", "Sintonizar" ]
+  },
+  {
+    "ProibidaoWord": "SOBRADO",
+    "ProibidaoWords": [ "Casa", "Andares", "N\u00edvel", "Morar", "Pavimento" ]
+  },
+  {
+    "ProibidaoWord": "LICOR",
+    "ProibidaoWords": [ "U\u00edsque", "\u00c1lcool", "Beber", "Bar", "Refei\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "VIRGEM",
+    "ProibidaoWords": [ "Garota", "Sexo", "Jovem", "Puro", "Signo" ]
+  },
+  {
+    "ProibidaoWord": "CARNE COZIDA",
+    "ProibidaoWords": [ "Comida", "Ensopado", "Comer", "Cozinhar", "Bife" ]
+  },
+  {
+    "ProibidaoWord": "BAMBI",
+    "ProibidaoWords": [ "Animal", "Veado", "Disney", "Filme", "Desenho" ]
+  },
+  {
+    "ProibidaoWord": "RAINHA",
+    "ProibidaoWords": [ "Elizabeth", "Rei", "Mulher", "Real", "Inglesa" ]
+  },
+  {
+    "ProibidaoWord": "DEPRESS\u00c3O",
+    "ProibidaoWords": [ "Tristeza", "Melancolia", "Des\u00e2nimo", "Crise", "Doen\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "CAT\u00c1LOGO",
+    "ProibidaoWords": [ "Loja", "Pedir", "Propaganda", "Comprar", "Correspond\u00eancia" ]
+  },
+  {
+    "ProibidaoWord": "J\u00d3QUEI",
+    "ProibidaoWords": [ "Montar", "Cavalo", "Corrida", "Sela", "Pista" ]
+  },
+  {
+    "ProibidaoWord": "KETCHUP",
+    "ProibidaoWords": [ "Mostarda", "Tempero", "Tomate", "Condimento", "Batata Frita" ]
+  },
+  {
+    "ProibidaoWord": "MANTEIGA",
+    "ProibidaoWords": [ "Margarina", "Passar", "Latic\u00ednio", "Amarelo", "P\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "BIZARRO",
+    "ProibidaoWords": [ "Esquisito", "Estranho", "Anormal", "Incomum", "N\u00e3o Convencional" ]
+  },
+  {
+    "ProibidaoWord": "ABAFADOR",
+    "ProibidaoWords": [ "Debaixo", "Barulho", "Carro", "Escapamento", "Traseira" ]
+  },
+  {
+    "ProibidaoWord": "ROSCA",
+    "ProibidaoWords": [ "Redondo", "P\u00e3o", "Doce", "Parafuso", "Porca" ]
+  },
+  {
+    "ProibidaoWord": "GARGALHADA",
+    "ProibidaoWords": [ "Forte", "He he", "Risada", "Sorriso", "Piada" ]
+  },
+  {
+    "ProibidaoWord": "CABO",
+    "ProibidaoWords": [ "Televis\u00e3o", "Fio", "Telegrama", "Bonde", "Canal" ]
+  },
+  {
+    "ProibidaoWord": "CASCA",
+    "ProibidaoWords": [ "Banana", "Crosta", "Pele", "Capa", "Laranja" ]
+  },
+  {
+    "ProibidaoWord": "CARRINHO DE BEB\u00ca",
+    "ProibidaoWords": [ "Nen\u00e9m", "Filho", "Empurrar", "Puxar", "Ve\u00edculo" ]
+  },
+  {
+    "ProibidaoWord": "RADIADOR",
+    "ProibidaoWords": [ "Aquecimento", "\u00c1gua", "Refrigerar", "Carro", "Motor" ]
+  },
+  {
+    "ProibidaoWord": "BOLHA",
+    "ProibidaoWords": [ "Machucado", "Queimadura", "Sapato", "Pele", "Atrito" ]
+  },
+  {
+    "ProibidaoWord": "SAL\u00c1RIO",
+    "ProibidaoWords": [ "Pagamento", "Ordenado", "M\u00eas", "Trabalho", "Dinheiro" ]
+  },
+  {
+    "ProibidaoWord": "BANQUEIRO",
+    "ProibidaoWords": [ "Dinheiro", "Caixa", "Empr\u00e9stimo", "Hipoteca", "Finan\u00e7as" ]
+  },
+  {
+    "ProibidaoWord": "LEN\u00c7O",
+    "ProibidaoWords": [ "Nariz", "Pano", "Esfregar", "Bolso", "Papel" ]
+  },
+  {
+    "ProibidaoWord": "ESTACA",
+    "ProibidaoWords": [ "Cerca", "Bater", "Contorno", "Jardim", "Madeira" ]
+  },
+  {
+    "ProibidaoWord": "FLORESTA",
+    "ProibidaoWords": [ "\u00c1rvore", "Amaz\u00f4nica", "Fogo", "Madeira", "Desmatar" ]
+  },
+  {
+    "ProibidaoWord": "CAVALO DE CORRIDA",
+    "ProibidaoWords": [ "Puro-sangue", "Mangalarga", "Aposta", "Pista", "H\u00f3quei" ]
+  },
+  {
+    "ProibidaoWord": "CONGELAR",
+    "ProibidaoWords": [ "Gelo", "Frio", "Inverno", "\u00c1gua", "Freezer" ]
+  },
+  {
+    "ProibidaoWord": "IMITAR",
+    "ProibidaoWords": [ "Imitador", "Copiar", "M\u00edmica", "Parecido", "Id\u00eantico" ]
+  },
+  {
+    "ProibidaoWord": "BANDA",
+    "ProibidaoWords": [ "Grupo", "Borracha", "M\u00fascia", "Orquestra", "Celular" ]
+  },
+  {
+    "ProibidaoWord": "ARREMESSO",
+    "ProibidaoWords": [ "Jogar", "Basquete", "Atirar", "Lance", "Longe" ]
+  },
+  {
+    "ProibidaoWord": "SAIA",
+    "ProibidaoWords": [ "Roupa", "Blusa", "Mini", "Vestido", "Usar" ]
+  },
+  {
+    "ProibidaoWord": "SAB\u00c3O",
+    "ProibidaoWords": [ "Limpar", "Lavar", "Espuma", "Lavanderia", "Bolha" ]
+  },
+  {
+    "ProibidaoWord": "DESCONGELAR",
+    "ProibidaoWords": [ "Gelo", "Freezer", "Degelo", "Derreter", "Geladeira" ]
+  },
+  {
+    "ProibidaoWord": "MARINHA",
+    "ProibidaoWords": [ "Navio", "Oceano", "Ex\u00e9rcito", "Marinheiro", "For\u00e7as Armadas" ]
+  },
+  {
+    "ProibidaoWord": "VENENO",
+    "ProibidaoWords": [ "Ars\u00eanico", "Venenoso", "Ant\u00eddoto", "Caveira", "Cianureto" ]
+  },
+  {
+    "ProibidaoWord": "PRESIDENTE LULA",
+    "ProibidaoWords": [ "Barba", "Vota\u00e7\u00e3o", "Luiz In\u00e1cio", "PT", "Metal\u00fargico" ]
+  },
+  {
+    "ProibidaoWord": "TONTURA",
+    "ProibidaoWords": [ "Balan\u00e7ar", "B\u00eabado", "Andar", "Tr\u00f4pego", "Reta" ]
+  },
+  {
+    "ProibidaoWord": "SAUD\u00c1VEL",
+    "ProibidaoWords": [ "Bem", "Forma", "Doente", "Sentir", "Corpo" ]
+  },
+  {
+    "ProibidaoWord": "FOGOS DE ARTIF\u00cdCIO",
+    "ProibidaoWords": [ "C\u00e9u", "Explos\u00e3o", "Roj\u00e3o", "R\u00e9veillon", "Foguete" ]
+  },
+  {
+    "ProibidaoWord": "DEVANEIO",
+    "ProibidaoWords": [ "Pensamento", "Dormir", "Fantasia", "Cansado", "Mente" ]
+  },
+  {
+    "ProibidaoWord": "CORUJA",
+    "ProibidaoWords": [ "P\u00e1ssaro", "Sabedoria", "Penas", "Noite", "\u00c1rvore" ]
+  },
+  {
+    "ProibidaoWord": "MACHADO",
+    "ProibidaoWords": [ "\u00cdndio", "Ferramenta", "Lenha", "Madeira", "Lenhador" ]
+  },
+  {
+    "ProibidaoWord": "ARROTO",
+    "ProibidaoWords": [ "Eructa\u00e7\u00e3o", "Beb\u00ea", "G\u00e1s", "Ar", "Comer" ]
+  },
+  {
+    "ProibidaoWord": "PASSAPORTE",
+    "ProibidaoWords": [ "Viagem", "Visto", "Pa\u00eds", "Identifica\u00e7\u00e3o", "Estrangeiro" ]
+  },
+  {
+    "ProibidaoWord": "C\u00d3PIA",
+    "ProibidaoWords": [ "Imitar", "M\u00edmica", "Original", "Duplicar", "Xerox" ]
+  },
+  {
+    "ProibidaoWord": "MARATONA",
+    "ProibidaoWords": [ "Quil\u00f4metros", "Corredor", "Esporte", "Pista", "longo" ]
+  },
+  {
+    "ProibidaoWord": "BARBEIRO",
+    "ProibidaoWords": [ "Cabelo", "Tesoura", "Barbear", "Cortar", "Cabe\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "SAMURAI",
+    "ProibidaoWords": [ "Jap\u00e3o", "Espada", "Guerreiro", "Soldado", "Honra" ]
+  },
+  {
+    "ProibidaoWord": "CHAMIN\u00c9",
+    "ProibidaoWords": [ "Telhado", "Fuma\u00e7a", "Tijolo", "Lareira", "Papai Noel" ]
+  },
+  {
+    "ProibidaoWord": "INC\u00caNDIO",
+    "ProibidaoWords": [ "Fogo", "Queimar", "Bombeiros", "Tocha", "Chama" ]
+  },
+  {
+    "ProibidaoWord": "MOCHILA",
+    "ProibidaoWords": [ "Bolsa", "Mala", "Andar", "Usar", "Ombro" ]
+  },
+  {
+    "ProibidaoWord": "RUA SEM SA\u00cdDA",
+    "ProibidaoWords": [ "Via", "Entrada", "Placa", "N\u00e3o", "Beco" ]
+  },
+  {
+    "ProibidaoWord": "ZEBRA",
+    "ProibidaoWords": [ "Preto", "Branco", "Listra", "Cavalo", "\u00c1frica" ]
+  },
+  {
+    "ProibidaoWord": "ESPELHO",
+    "ProibidaoWords": [ "Parede", "Ver", "Reflexo", "Imagem", "Retrovisor" ]
+  },
+  {
+    "ProibidaoWord": "L\u00c2MINA",
+    "ProibidaoWords": [ "Patins de gelo", "Faca", "Afiada", "Estilete", "Barbear" ]
+  },
+  {
+    "ProibidaoWord": "MERGULHAR",
+    "ProibidaoWords": [ "Mar", "Nadar", "Piscina", "\u00c1gua", "Afundar" ]
+  },
+  {
+    "ProibidaoWord": "BLUSH",
+    "ProibidaoWords": [ "Vermelho", "Bochecha", "Maquiagem", "P\u00f3", "Rosto" ]
+  },
+  {
+    "ProibidaoWord": "MERGULHO",
+    "ProibidaoWords": [ "\u00c1gua", "Borda", "Piscina", "C\u00e9u", "Pulo" ]
+  },
+  {
+    "ProibidaoWord": "CARREIRA",
+    "ProibidaoWords": [ "Profiss\u00e3o", "Emprego", "Voca\u00e7\u00e3o", "Vida", "Trabalho" ]
+  },
+  {
+    "ProibidaoWord": "SONHO",
+    "ProibidaoWords": [ "Pesadelo", "Dormir", "Dia", "Cama", "Subconsciente" ]
+  },
+  {
+    "ProibidaoWord": "PALMADA",
+    "ProibidaoWords": [ "Bater", "Acertar", "Crian\u00e7a", "Bumbum", "M\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "B\u00cdBLIA",
+    "ProibidaoWords": [ "Testamento", "Livro", "Juramento", "Escritura", "Sagrada" ]
+  },
+  {
+    "ProibidaoWord": "CARRUAGEM",
+    "ProibidaoWords": [ "Transporte", "Montar", "Cavalos", "Ab\u00f3bora", "Vag\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "LISTA NEGRA",
+    "ProibidaoWords": [ "Rela\u00e7\u00e3o", "Marcar", "Preto", "Ruim", "Confian\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "SEREIA",
+    "ProibidaoWords": [ "Mulher", "Peixe", "Canto", "Metade", "Pequena" ]
+  },
+  {
+    "ProibidaoWord": "HUMOR",
+    "ProibidaoWords": [ "Com\u00e9dia", "Animado", "Engra\u00e7ado", "Risada", "Piada" ]
+  },
+  {
+    "ProibidaoWord": "PIPA",
+    "ProibidaoWords": [ "Voar", "Vento", "Linha", "Empinar", "C\u00e9u" ]
+  },
+  {
+    "ProibidaoWord": "RECEITA",
+    "ProibidaoWords": [ "Preparar", "Cozinhar", "Instru\u00e7\u00f5es", "Comida", "Ingredientes" ]
+  },
+  {
+    "ProibidaoWord": "ASTROLOGIA",
+    "ProibidaoWords": [ "Hor\u00f3scopo", "Astros", "Signo", "Walter Mercado", "Zod\u00edaco" ]
+  },
+  {
+    "ProibidaoWord": "T\u00cdMIDO",
+    "ProibidaoWords": [ "Acanhado", "Retra\u00eddo", "Vergonha", "Quieto", "Soci\u00e1vel" ]
+  },
+  {
+    "ProibidaoWord": "TELEFONE",
+    "ProibidaoWords": [ "Ligar", "Tocar", "N\u00famero", "Discar", "Ocupado" ]
+  },
+  {
+    "ProibidaoWord": "PIRATA",
+    "ProibidaoWords": [ "Mar", "Navio", "Tapa-olho", "Gancho", "Marinheiro" ]
+  },
+  {
+    "ProibidaoWord": "MULETA",
+    "ProibidaoWords": [ "Quebrado", "Perna", "Bengala", "Atadura", "Andar" ]
+  },
+  {
+    "ProibidaoWord": "VELA",
+    "ProibidaoWords": [ "Pavio", "Cera", "Chama", "Queimar", "Luz" ]
+  },
+  {
+    "ProibidaoWord": "FESTA",
+    "ProibidaoWords": [ "Presente", "Comemora\u00e7\u00e3o", "Convite", "Amigos", "Anivers\u00e1rio" ]
+  },
+  {
+    "ProibidaoWord": "SACO",
+    "ProibidaoWords": [ "Papel", "Lixo", "Pl\u00e1stico", "Pacote", "Dentro" ]
+  },
+  {
+    "ProibidaoWord": "BATERIA",
+    "ProibidaoWords": [ "Lanterna", "Carga", "Pilha", "Trocar", "Celular" ]
+  },
+  {
+    "ProibidaoWord": "MOZARELA",
+    "ProibidaoWords": [ "Queijo", "Pizza", "It\u00e1lia", "Latic\u00ednio", "Comer" ]
+  },
+  {
+    "ProibidaoWord": "DIV\u00d3RCIO",
+    "ProibidaoWords": [ "Ex", "Casamento", "Separa\u00e7\u00e3o", "Pessoa", "Desquite" ]
+  },
+  {
+    "ProibidaoWord": "LANTERNA",
+    "ProibidaoWords": [ "Pilha", "Luz", "Iluminar", "Escuro", "M\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "GIM",
+    "ProibidaoWords": [ "\u00c1lcool", "Bebida", "Transporte", "T\u00f4nico", "Claro" ]
+  },
+  {
+    "ProibidaoWord": "MOINHO DE VENTO",
+    "ProibidaoWords": [ "Holanda", "Hol\u00e2ndes", "Cata-vento", "P\u00e1/palheta", "Girar" ]
+  },
+  {
+    "ProibidaoWord": "CROISSANT",
+    "ProibidaoWords": [ "Lua", "P\u00e3o", "Massa", "Franc\u00eas", "Folheado" ]
+  },
+  {
+    "ProibidaoWord": "SNORKEL",
+    "ProibidaoWords": [ "Nadar", "P\u00e9-de-pato", "\u00c1gua", "Respirar", "Mergulhar" ]
+  },
+  {
+    "ProibidaoWord": "MAITR\u00ca",
+    "ProibidaoWords": [ "Restaurante", "Mesa", "Servir", "Gar\u00e7om", "Comer" ]
+  },
+  {
+    "ProibidaoWord": "VIDEOTEIPE",
+    "ProibidaoWords": [ "Filme", "TV", "Imagens", "Passar", "Repetir" ]
+  },
+  {
+    "ProibidaoWord": "SAPATO",
+    "ProibidaoWords": [ "P\u00e9", "Cal\u00e7ado", "Meia", "Couro", "Moda" ]
+  },
+  {
+    "ProibidaoWord": "AGONIA",
+    "ProibidaoWords": [ "Tortura", "Dor", "Derrota", "Machucar", "Sofrer" ]
+  },
+  {
+    "ProibidaoWord": "VAGABUNDO",
+    "ProibidaoWords": [ "Mendigo", "Dama", "Pregui\u00e7oso", "Pedinte", "Trabalhar" ]
+  },
+  {
+    "ProibidaoWord": "POLVO",
+    "ProibidaoWords": [ "Tent\u00e1culos", "Oceano", "Bra\u00e7os", "Oito", "Lula" ]
+  },
+  {
+    "ProibidaoWord": "VASSOURA",
+    "ProibidaoWords": [ "Limpeza", "Varrer", "Pia\u00e7ava", "Bruxa", "Ch\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "PICANHA",
+    "ProibidaoWords": [ "Comer", "Churrasco", "Carne", "Sal grosso", "Bife" ]
+  },
+  {
+    "ProibidaoWord": "GAMB\u00c1",
+    "ProibidaoWords": [ "Animal", "Listra", "Fedor", "Branco", "Cheiro" ]
+  },
+  {
+    "ProibidaoWord": "PREVIS\u00c3O",
+    "ProibidaoWords": [ "Tempo", "Televis\u00e3o", "R\u00e1dio", "Progn\u00f3stico", "Chuva" ]
+  },
+  {
+    "ProibidaoWord": "LINGERIE",
+    "ProibidaoWords": [ "Roupa \u00edntima", "Suti\u00e3", "Calcinha", "Meia", "Mulher" ]
+  },
+  {
+    "ProibidaoWord": "CESTA",
+    "ProibidaoWords": [ "Entrela\u00e7ar", "Caf\u00e9 da manh\u00e3", "Basquete", "Ovos", "Lixo" ]
+  },
+  {
+    "ProibidaoWord": "GOURMET",
+    "ProibidaoWords": [ "Especialista", "Comida", "Restaurante", "Comer", "Chefe" ]
+  },
+  {
+    "ProibidaoWord": "SOMBRA",
+    "ProibidaoWords": [ "Calor", "L\u00e2mpada", "Sol", "\u00c1rvore", "Refrescar" ]
+  },
+  {
+    "ProibidaoWord": "PORCARIA",
+    "ProibidaoWords": [ "Porco", "Lixo", "Besteira", "Valor", "Palavr\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "NOIVA",
+    "ProibidaoWords": [ "Alian\u00e7a", "Noivo", "Casar", "Branco", "V\u00e9u" ]
+  },
+  {
+    "ProibidaoWord": "CHAMADA TELEF\u00d4NICA",
+    "ProibidaoWords": [ "Telefone", "Discar", "Tocar", "Nome", "Falar" ]
+  },
+  {
+    "ProibidaoWord": "MARSHMALLOW",
+    "ProibidaoWords": [ "Branco", "Sorvete", "Tostado", "Cobertura", "Fofo" ]
+  },
+  {
+    "ProibidaoWord": "ENTRADA",
+    "ProibidaoWords": [ "Aperitivo", "Sa\u00edda", "Comer", "Porta", "Voc\u00ea" ]
+  },
+  {
+    "ProibidaoWord": "CERVEJA",
+    "ProibidaoWords": [ "Bebida", "Vinho", "Tomar", "\u00c1lcool", "Lata" ]
+  },
+  {
+    "ProibidaoWord": "SALVADOR",
+    "ProibidaoWords": [ "Bahia", "Trio El\u00e9trico", "Elevador Lacerda", "Pelourinho", "Carnaval" ]
+  },
+  {
+    "ProibidaoWord": "PAISAGEM",
+    "ProibidaoWords": [ "Gramado", "Plantas", "Quadro", "Cena", "Jardim" ]
+  },
+  {
+    "ProibidaoWord": "RESSACA",
+    "ProibidaoWords": [ "\u00c1lcool", "Mal-estar", "B\u00eabado", "Bebida", "Manh\u00e3" ]
+  },
+  {
+    "ProibidaoWord": "ESPADA",
+    "ProibidaoWords": [ "Faca", "Arma", "Esgrima", "A\u00e7o", "L\u00e2mina" ]
+  },
+  {
+    "ProibidaoWord": "FACA",
+    "ProibidaoWords": [ "Cutelaria", "Afiada", "Colher", "Garfo", "Canivete" ]
+  },
+  {
+    "ProibidaoWord": "ACNE",
+    "ProibidaoWords": [ "Espinha", "Adolescente", "Cravo", "Rosto", "Pus" ]
+  },
+  {
+    "ProibidaoWord": "PIN\u00c7A",
+    "ProibidaoWords": [ "Arrancar", "Puxar", "Sobrancelha", "Quebrar", "Apertar" ]
+  },
+  {
+    "ProibidaoWord": "ABORRECIDO",
+    "ProibidaoWords": [ "Triste", "Infeliz", "Boca", "Rosto", "Sorriso" ]
+  },
+  {
+    "ProibidaoWord": "CARECA",
+    "ProibidaoWords": [ "Cabe\u00e7a", "Cabelo", "Ronaldinho", "Peruca", "Raspar" ]
+  },
+  {
+    "ProibidaoWord": "LAGARTO",
+    "ProibidaoWords": [ "Cobra", "R\u00e9ptil", "Salamandra", "Camale\u00e3o", "Jacar\u00e9" ]
+  },
+  {
+    "ProibidaoWord": "\u00c1SIA",
+    "ProibidaoWords": [ "Oriente", "Continente", "China", "Europa", "Terra" ]
+  },
+  {
+    "ProibidaoWord": "\u00d4NIBUS ESPACIAL",
+    "ProibidaoWords": [ "Challenger", "Columbia", "Estados Unidos", "Espa\u00e7o", "\u00d3rbita" ]
+  },
+  {
+    "ProibidaoWord": "PRIS\u00c3O",
+    "ProibidaoWords": [ "Cadeia", "Grades", "C\u00e1cere", "Cela", "Criminoso" ]
+  },
+  {
+    "ProibidaoWord": "RONCAR",
+    "ProibidaoWords": [ "Dormir", "Som", "Noite", "Nariz", "Barulho" ]
+  },
+  {
+    "ProibidaoWord": "PEGAJOSO",
+    "ProibidaoWords": [ "Grudento", "Cola", "Chato", "Pegar", "Grudar" ]
+  },
+  {
+    "ProibidaoWord": "P\u00d3",
+    "ProibidaoWords": [ "Sujeira", "Aspirador", "Tirar", "Limpar", "M\u00f3veis" ]
+  },
+  {
+    "ProibidaoWord": "POSTO DE GASOLINA",
+    "ProibidaoWords": [ "Combust\u00edvel", "Abastecer", "Frentista", "Carro", "Colocar" ]
+  },
+  {
+    "ProibidaoWord": "POMBO",
+    "ProibidaoWords": [ "Correio", "Paz", "Olimp\u00edadas", "Branca", "P\u00e1ssaro" ]
+  },
+  {
+    "ProibidaoWord": "S\u00c3O PAULO",
+    "ProibidaoWords": [ "Estado", "Cidade", "Time", "Futebol", "Parque Ibirapuera" ]
+  },
+  {
+    "ProibidaoWord": "HIPOTECA",
+    "ProibidaoWords": [ "Banco", "Casa", "D\u00edvida", "Pagamento", "Resid\u00eancia" ]
+  },
+  {
+    "ProibidaoWord": "LOUCO",
+    "ProibidaoWords": [ "Insano", "Maluco", "Bravo", "Furioso", "Turma da M\u00f4nica" ]
+  },
+  {
+    "ProibidaoWord": "ESPI\u00c3O",
+    "ProibidaoWords": [ "Agente", "Informante", "Pol\u00edcia", "Investigar", "Contar" ]
+  },
+  {
+    "ProibidaoWord": "TAPA",
+    "ProibidaoWords": [ "Cabe\u00e7a", "Costas", "Olho", "M\u00e3o", "Briga" ]
+  },
+  {
+    "ProibidaoWord": "SUSSURO",
+    "ProibidaoWords": [ "Falar", "Baixinho", "Ouvido", "Som", "Grito" ]
+  },
+  {
+    "ProibidaoWord": "ASSINATURA",
+    "ProibidaoWords": [ "Nome", "Documento", "Jornal", "Revista", "Aut\u00f3grafo" ]
+  },
+  {
+    "ProibidaoWord": "ATIVISTA",
+    "ProibidaoWords": [ "Pol\u00edtica", "Direito", "Estudante", "Protesto", "Demonstrar" ]
+  },
+  {
+    "ProibidaoWord": "C\u00c2MERA",
+    "ProibidaoWords": [ "Tirar", "Retrato", "Filme", "Foto", "Flash" ]
+  },
+  {
+    "ProibidaoWord": "CEBOLINHA",
+    "ProibidaoWords": [ "Maur\u00edcio de Sousa", "M\u00f4nica", "Magali", "Casc\u00e3o", "Quadrinhos" ]
+  },
+  {
+    "ProibidaoWord": "DESEJO",
+    "ProibidaoWords": [ "Querer", "Aspirar", "Vontade", "Gr\u00e1vida", "\u00c2nsia" ]
+  },
+  {
+    "ProibidaoWord": "ELENCO",
+    "ProibidaoWords": [ "Ator", "Pe\u00e7a", "Novela", "Filme", "Lista" ]
+  },
+  {
+    "ProibidaoWord": "CONVENTO",
+    "ProibidaoWords": [ "Freira", "Viver", "Irm\u00e3", "Religi\u00e3o", "Casa" ]
+  },
+  {
+    "ProibidaoWord": "GARRINCHA",
+    "ProibidaoWords": [ "Futebol", "Perna", "Torta", "Drible", "Botafogo" ]
+  },
+  {
+    "ProibidaoWord": "CURIOSIDADE",
+    "ProibidaoWords": [ "Interesse", "Gato", "Perguntar", "Abelhudo", "Quest\u00f5es" ]
+  },
+  {
+    "ProibidaoWord": "ONDA",
+    "ProibidaoWords": [ "Praia", "Pegar", "Surfe", "Mar", "Prancha" ]
+  },
+  {
+    "ProibidaoWord": "DR\u00c1CULA",
+    "ProibidaoWords": [ "Vampiro", "Transilv\u00e2nia", "Sangue", "Mordida", "Pesco\u00e7o" ]
+  },
+  {
+    "ProibidaoWord": "PIZZA",
+    "ProibidaoWords": [ "Peda\u00e7o", "Mozarela", "Borda", "Calabresa", "Catupiry" ]
+  },
+  {
+    "ProibidaoWord": "BIGA",
+    "ProibidaoWords": [ "Corrida", "Roma", "Cavalo", "Ben-Hur", "Rodas" ]
+  },
+  {
+    "ProibidaoWord": "CIRURGIA PL\u00c1STICA",
+    "ProibidaoWords": [ "Rugas", "Jovem", "Cirugi\u00e3o-pl\u00e1stico", "Opera\u00e7\u00e3o", "Cosm\u00e9tico" ]
+  },
+  {
+    "ProibidaoWord": "QUEDA",
+    "ProibidaoWords": [ "Bolsa de valores", "Acidente", "Avi\u00e3o", "Cair", "Livre" ]
+  },
+  {
+    "ProibidaoWord": "AZIA",
+    "ProibidaoWords": [ "\u00c1cido", "Est\u00f4mago", "Indigest\u00e3o", "Dor", "Comer" ]
+  },
+  {
+    "ProibidaoWord": "ADOLESCENTE",
+    "ProibidaoWords": [ "Adulto", "Crian\u00e7a", "Puberdade", "Jovem", "Garoto" ]
+  },
+  {
+    "ProibidaoWord": "IGLU",
+    "ProibidaoWords": [ "Esquim\u00f3", "Neve", "Alasca", "Casa", "Gelo" ]
+  },
+  {
+    "ProibidaoWord": "BAFORADA",
+    "ProibidaoWords": [ "Cigarro", "Fuma\u00e7a", "Drag\u00e3o", "Fumar", "Charuto" ]
+  },
+  {
+    "ProibidaoWord": "SOUVENIR",
+    "ProibidaoWords": [ "Lembran\u00e7a", "Presente", "Recorda\u00e7\u00e3o", "F\u00e9rias", "Loja" ]
+  },
+  {
+    "ProibidaoWord": "UNIVERSIDADE",
+    "ProibidaoWords": [ "Gradua\u00e7\u00e3o", "Campus", "Professor", "Faculdade", "Escola" ]
+  },
+  {
+    "ProibidaoWord": "TERRA",
+    "ProibidaoWords": [ "Globo", "Mundo", "Planeta", "Natal", "Plantar" ]
+  },
+  {
+    "ProibidaoWord": "TRAN\u00c7A",
+    "ProibidaoWords": [ "Penteado", "Rabo-de-cavalo", "Menina", "Cabelo", "Prender" ]
+  },
+  {
+    "ProibidaoWord": "ALFINETE",
+    "ProibidaoWords": [ "Agulha", "Cabe\u00e7a", "Bola", "Seguran\u00e7a", "Broche" ]
+  },
+  {
+    "ProibidaoWord": "GRAMADO",
+    "ProibidaoWords": [ "Celeiro", "Capim", "Jardim", "Verde", "Casa" ]
+  },
+  {
+    "ProibidaoWord": "MOTOCICLETA",
+    "ProibidaoWords": [ "2 rodas", "Motoboy", "Bicicleta", "Andar", "Moto" ]
+  },
+  {
+    "ProibidaoWord": "VAG\u00c3O",
+    "ProibidaoWords": [ "Engate", "Esta\u00e7\u00e3o", "Puxar", "Trem", "Trilho" ]
+  },
+  {
+    "ProibidaoWord": "RABO-DE-CAVALO",
+    "ProibidaoWords": [ "Penteado", "Menina", "Cabelo", "Fita", "El\u00e1stico" ]
+  },
+  {
+    "ProibidaoWord": "DIABO",
+    "ProibidaoWords": [ "Dem\u00f4nio", "Capeta", "Inferno", "Tridente", "Anjo" ]
+  },
+  {
+    "ProibidaoWord": "V\u00caNUS",
+    "ProibidaoWords": [ "Amor", "Deusa", "Planeta", "Mulher", "Beleza" ]
+  },
+  {
+    "ProibidaoWord": "REGAR",
+    "ProibidaoWords": [ "Regador", "\u00c1gua", "\u00damido", "Mangueira", "Gotejar" ]
+  },
+  {
+    "ProibidaoWord": "LEGENDA",
+    "ProibidaoWords": [ "Palavras", "Tela", "Tradu\u00e7\u00e3o", "Cinema", "Filme" ]
+  },
+  {
+    "ProibidaoWord": "PRESUNTO",
+    "ProibidaoWords": [ "Porco", "Frio", "Queijo", "Carne", "Bacon" ]
+  },
+  {
+    "ProibidaoWord": "DESAJEITADO",
+    "ProibidaoWords": [ "Habilidade", "Descoordenado", "Cair", "Bobo", "Pateta" ]
+  },
+  {
+    "ProibidaoWord": "GRAXA",
+    "ProibidaoWords": [ "Pasta", "\u00d3leo", "Fritura", "Lubrificar", "Sapato" ]
+  },
+  {
+    "ProibidaoWord": "EMERG\u00caNCIA",
+    "ProibidaoWords": [ "Crise", "190", "Socorro", "Chamar", "Situa\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "TINTA",
+    "ProibidaoWords": [ "Cor", "Pincel", "Parede", "Casa", "Artista" ]
+  },
+  {
+    "ProibidaoWord": "LIXO",
+    "ProibidaoWords": [ "Lalta", "Lixeiro", "Sobra", "Entulho", "Saco" ]
+  },
+  {
+    "ProibidaoWord": "ATAQUE",
+    "ProibidaoWords": [ "Cora\u00e7\u00e3o", "Assalto", "Roubar", "Batalha", "Defender" ]
+  },
+  {
+    "ProibidaoWord": "TORRE EIFFEL",
+    "ProibidaoWords": [ "Paris", "Marco", "Alto", "Ferro", "Estrutura" ]
+  },
+  {
+    "ProibidaoWord": "CEGO",
+    "ProibidaoWords": [ "Vis\u00e3o", "Olho", "Veneziana", "Enxergar", "Morcego" ]
+  },
+  {
+    "ProibidaoWord": "CANDELABRO",
+    "ProibidaoWords": [ "Vela", "Iluminar", "Cera", "Luz", "Casti\u00e7al" ]
+  },
+  {
+    "ProibidaoWord": "BERINJELA",
+    "ProibidaoWords": [ "Vegetal", "Roxo", "Legume", "Comer", "Crescer" ]
+  },
+  {
+    "ProibidaoWord": "OURO PRETO",
+    "ProibidaoWords": [ "Aleijadinho", "Barroco", "Minas Gerais", "Patrim\u00f4nio", "Igreja" ]
+  },
+  {
+    "ProibidaoWord": "ACAMPAMENTO",
+    "ProibidaoWords": [ "Fogueira", "Madeira", "Ver\u00e3o", "Barraca", "Escoteiro" ]
+  },
+  {
+    "ProibidaoWord": "JORNADA",
+    "ProibidaoWords": [ "Passeio", "Excurs\u00e3o", "Aventura", "Estrela", "Viagem" ]
+  },
+  {
+    "ProibidaoWord": "COPA DO MUNDO",
+    "ProibidaoWords": [ "Futebol", "Pa\u00edses", "Times", "Jules Rimet", "Campe\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "UVA",
+    "ProibidaoWords": [ "Roxo", "Vinho", "It\u00e1lia", "Cacho", "Fruta" ]
+  },
+  {
+    "ProibidaoWord": "PORTA-RETRATOS",
+    "ProibidaoWords": [ "Foto", "Fam\u00edlia", "\u00c1lbum", "Moldura", "Recorda\u00e7\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "A\u00c7\u00d5ES",
+    "ProibidaoWords": [ "Bolsa", "Mercado", "T\u00edtulo", "Valor", "Wall Street" ]
+  },
+  {
+    "ProibidaoWord": "SINFONIA",
+    "ProibidaoWords": [ "Orquestra", "Concerto", "M\u00fasica", "Cl\u00e1ssico", "Maestro" ]
+  },
+  {
+    "ProibidaoWord": "GOLFE",
+    "ProibidaoWords": [ "Dire\u00e7\u00e3o", "Buraco", "Taco", "Gramado", "Bolinha" ]
+  },
+  {
+    "ProibidaoWord": "POR\u00c3O",
+    "ProibidaoWords": [ "Celeiro", "Embaixo", "Casa", "Lugar", "Debaixo" ]
+  },
+  {
+    "ProibidaoWord": "SAUNA",
+    "ProibidaoWords": [ "Vapor", "Sala", "Quente", "Suor", "Carv\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "CALEND\u00c1RIO",
+    "ProibidaoWords": [ "M\u00eas", "Ano", "Dias", "Data", "N\u00fameros" ]
+  },
+  {
+    "ProibidaoWord": "CALDEIR\u00c3O",
+    "ProibidaoWords": [ "Sopa", "Panela", "\u00c1gua", "Ferver", "Bruxa" ]
+  },
+  {
+    "ProibidaoWord": "DANCETERIA",
+    "ProibidaoWords": [ "Bar", "Dan\u00e7ar", "M\u00fasica", "DJ", "Mesa" ]
+  },
+  {
+    "ProibidaoWord": "C\u00c2MARA ESCURA",
+    "ProibidaoWords": [ "Fotografia", "Revelar", "Imagens", "Luz", "Filme" ]
+  },
+  {
+    "ProibidaoWord": "PRAIA",
+    "ProibidaoWords": [ "Costa", "Areia", "Onda", "Concha", "\u00c1gua" ]
+  },
+  {
+    "ProibidaoWord": "BARMAN",
+    "ProibidaoWords": [ "Drinque", "Coqueteleira", "\u00c1lcool", "Servir", "Fazer" ]
+  },
+  {
+    "ProibidaoWord": "ROXO",
+    "ProibidaoWords": [ "Cor", "Azul", "Violeta", "Raiva", "Lavanda" ]
+  },
+  {
+    "ProibidaoWord": "LUA",
+    "ProibidaoWords": [ "Noite", "C\u00e9u", "Sol", "Cheia", "Crescente" ]
+  },
+  {
+    "ProibidaoWord": "BAILARINA",
+    "ProibidaoWords": [ "Dan\u00e7arina", "Sapatilha", "Collant", "Ponta", "Baryshnikov" ]
+  },
+  {
+    "ProibidaoWord": "BACON",
+    "ProibidaoWords": [ "Porco", "Comer", "Toucinho", "Gordura", "Ovos" ]
+  },
+  {
+    "ProibidaoWord": "FERRO DE PASSAR ROUPA",
+    "ProibidaoWords": [ "Engomar", "Metal", "Roupa", "Amassado", "Passar" ]
+  },
+  {
+    "ProibidaoWord": "FOTOGRAFIA",
+    "ProibidaoWords": [ "Foto", "C\u00e2mera", "Filme", "Instant\u00e2nea", "\u00e1lbum" ]
+  },
+  {
+    "ProibidaoWord": "ESTUFA",
+    "ProibidaoWords": [ "Vidro", "Planta", "Flor", "Crescer", "Aquecer" ]
+  },
+  {
+    "ProibidaoWord": "JAZZ",
+    "ProibidaoWords": [ "M\u00fasica", "Blues", "Corneta", "Jam", "Saxofone" ]
+  },
+  {
+    "ProibidaoWord": "DETETIVE",
+    "ProibidaoWords": [ "Investigar", "Crime", "Pistas", "Particular", "Sherlock Holmes" ]
+  },
+  {
+    "ProibidaoWord": "CARANGUEJO",
+    "ProibidaoWords": [ "Fruto do Mar", "Crust\u00e1ceo", "Siri", "C\u00e2ncer", "Pin\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "LAMA",
+    "ProibidaoWords": [ "Sujo", "Terra", "Umidade", "\u00c1gua", "Chuva" ]
+  },
+  {
+    "ProibidaoWord": "CACHOEIRA",
+    "ProibidaoWords": [ "Catarata", "\u00c1gua", "Rio", "Queda", "Igua\u00e7u" ]
+  },
+  {
+    "ProibidaoWord": "GIRAFA",
+    "ProibidaoWords": [ "Animal", "Pesco\u00e7o", "Alto", "Comprido", "Mancha" ]
+  },
+  {
+    "ProibidaoWord": "ARTISTA",
+    "ProibidaoWords": [ "Pintor", "Escultor", "Desenhista", "Est\u00fadio", "Cavalete" ]
+  },
+  {
+    "ProibidaoWord": "ORTODONTISTA",
+    "ProibidaoWords": [ "Dentista", "Aparelho", "Dente", "Boca", "Doutor" ]
+  },
+  {
+    "ProibidaoWord": "ARTISTA",
+    "ProibidaoWords": [ "Pintor", "Escultor", "Desenhista", "Est\u00fadio", "Cavalete" ]
+  },
+  {
+    "ProibidaoWord": "CONHAQUE",
+    "ProibidaoWords": [ "Bebida", "Tomar", "Vinho", "Licor", "\u00c1lcool" ]
+  },
+  {
+    "ProibidaoWord": "COSTELA",
+    "ProibidaoWords": [ "Churrasco", "T\u00f3rax", "Comida", "Osso", "Costeleta" ]
+  },
+  {
+    "ProibidaoWord": "CORRIM\u00c3O",
+    "ProibidaoWords": [ "Escada", "Parapeito", "Degraus", "Segurar", "Escorregar" ]
+  },
+  {
+    "ProibidaoWord": "FAMA",
+    "ProibidaoWords": [ "Celebridade", "Passageira", "Hall", "Sucesso", "Fortuna" ]
+  },
+  {
+    "ProibidaoWord": "PESTE",
+    "ProibidaoWords": [ "Bicho", "Praga", "Aborrecimento", "Incomodar", "Inseto" ]
+  },
+  {
+    "ProibidaoWord": "NAMORADO",
+    "ProibidaoWords": [ "Cupido", "12 de junho", "Querido", "Apaixonado", "Amor" ]
+  },
+  {
+    "ProibidaoWord": "MONARQUIA",
+    "ProibidaoWords": [ "Rep\u00fablica", "Rei", "Governar", "Rainha", "Inglaterra" ]
+  },
+  {
+    "ProibidaoWord": "SEXTA-FEIRA SANTA",
+    "ProibidaoWords": [ "Bacalhau", "Prociss\u00e3o", "P\u00e1scoa", "Carne", "S\u00e1bado" ]
+  },
+  {
+    "ProibidaoWord": "BICHO-PREGUI\u00c7A",
+    "ProibidaoWords": [ "\u00c1rvore", "Devagar", "Lento", "Garras", "Animal" ]
+  },
+  {
+    "ProibidaoWord": "PRENDER",
+    "ProibidaoWords": [ "Pol\u00edcia", "Cadeia", "Crime", "Lei", "Algema" ]
+  },
+  {
+    "ProibidaoWord": "CAMICASE",
+    "ProibidaoWords": [ "Piloto", "Aviador", "Avi\u00e3o", "Suicida", "Japon\u00eas" ]
+  },
+  {
+    "ProibidaoWord": "SPUTNIK",
+    "ProibidaoWords": [ "Sat\u00e9lite", "\u00d3rbita", "Russo", "Uni\u00e3o Sovi\u00e9tica", "Espa\u00e7o" ]
+  },
+  {
+    "ProibidaoWord": "DI\u00c1RIO",
+    "ProibidaoWords": [ "Segredo", "Escrever", "Todos", "Pessoal", "Livro" ]
+  },
+  {
+    "ProibidaoWord": "MARINHEIRO",
+    "ProibidaoWords": [ "Marujo", "Popeye", "Marinha", "Navio", "Barco" ]
+  },
+  {
+    "ProibidaoWord": "COLOSSO",
+    "ProibidaoWords": [ "Gigante", "Enorme", "Forte", "Grande", "Rhodes" ]
+  },
+  {
+    "ProibidaoWord": "FAX",
+    "ProibidaoWords": [ "C\u00f3pia", "Telefone", "Passar", "Eletr\u00f4nico", "Transmitir" ]
+  },
+  {
+    "ProibidaoWord": "SALM\u00c3O",
+    "ProibidaoWords": [ "Peixe", "Rio", "Ova", "Cor", "Sushi" ]
+  },
+  {
+    "ProibidaoWord": "CARPINTEIRO",
+    "ProibidaoWords": [ "Marceneiro", "Montar", "Madeira", "Construir", "Ferramenta" ]
+  },
+  {
+    "ProibidaoWord": "PACIENTE",
+    "ProibidaoWords": [ "Doente", "M\u00e9dico", "Hospital", "Enfermeira", "Espera" ]
+  },
+  {
+    "ProibidaoWord": "TAR\u00d4",
+    "ProibidaoWords": [ "Cigano", "Futuro", "Ler", "Bola de cristal", "Adivinho" ]
+  },
+  {
+    "ProibidaoWord": "C\u00cdLIO",
+    "ProibidaoWords": [ "P\u00ealo", "R\u00edmel", "P\u00e1lpebra", "Olho", "Sombra" ]
+  },
+  {
+    "ProibidaoWord": "AUT\u00d3GRAFO",
+    "ProibidaoWords": [ "Famoso", "Assinatura", "Escrever", "Nome", "Celebridade" ]
+  },
+  {
+    "ProibidaoWord": "TUBAR\u00c3O",
+    "ProibidaoWords": [ "Peixe", "Martelo", "Dente", "Filme", "Mordida" ]
+  },
+  {
+    "ProibidaoWord": "AUT\u00d3GRAFO",
+    "ProibidaoWords": [ "Famoso", "Assinatura", "Escrever", "Nome", "Celebridade" ]
+  },
+  {
+    "ProibidaoWord": "ENCANADOR",
+    "ProibidaoWords": [ "Vazamento", "Cano", "Banheiro", "Pia", "Consertar" ]
+  },
+  {
+    "ProibidaoWord": "AVI\u00c3O",
+    "ProibidaoWords": [ "Asa", "Voar", "Decolar", "Jato", "Piloto" ]
+  },
+  {
+    "ProibidaoWord": "COSTA",
+    "ProibidaoWords": [ "Oceano", "Guarda", "Terra", "\u00c1gua", "Praia" ]
+  },
+  {
+    "ProibidaoWord": "\u00d4NIBUS ESCOLAR",
+    "ProibidaoWords": [ "Crian\u00e7as", "Perua", "Pegar", "Ve\u00edculo", "Escola" ]
+  },
+  {
+    "ProibidaoWord": "ONTEM",
+    "ProibidaoWords": [ "Passado", "Antes", "Hora", "Amanh\u00e3", "Tempo" ]
+  },
+  {
+    "ProibidaoWord": "HASHI",
+    "ProibidaoWords": [ "Japon\u00eas", "Palito", "Utens\u00edlio", "Comer", "Sushi" ]
+  },
+  {
+    "ProibidaoWord": "CABANA",
+    "ProibidaoWords": [ "Palha", "Quiosque", "Tenda", "Acampamento", "Barraca" ]
+  },
+  {
+    "ProibidaoWord": "PL\u00c1GIO",
+    "ProibidaoWords": [ "C\u00f3pia", "Roubar", "Cr\u00e9dito", "Palavra", "Id\u00e9ias" ]
+  },
+  {
+    "ProibidaoWord": "M\u00daMIA",
+    "ProibidaoWords": [ "Egito", "Tutankhamon", "Embalsamar", "Enrolada", "Morte" ]
+  },
+  {
+    "ProibidaoWord": "VACINA",
+    "ProibidaoWords": [ "Bra\u00e7o", "Agulha", "Anticorpo", "Inje\u00e7\u00e3o", "Crian\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "ALGEMA",
+    "ProibidaoWords": [ "Pulso", "Pol\u00edcia", "Chave", "Prender", "Ladr\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "APARTAMENTO",
+    "ProibidaoWords": [ "Flat", "Aluguel", "Morar", "Casa", "Pr\u00e9dio" ]
+  },
+  {
+    "ProibidaoWord": "ALGEMA",
+    "ProibidaoWords": [ "Pulso", "Pol\u00edcia", "Chave", "Prender", "Ladr\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "ARMADURA",
+    "ProibidaoWords": [ "Cavaleiro", "Metal", "Prote\u00e7\u00e3o", "Traje", "Vestir" ]
+  },
+  {
+    "ProibidaoWord": "FLAMINGO",
+    "ProibidaoWords": [ "Rosa", "P\u00e1ssaro", "Gramado", "Comprido", "Pernar" ]
+  },
+  {
+    "ProibidaoWord": "GILETE",
+    "ProibidaoWords": [ "P\u00ealo", "Raspar", "Barba", "Bigode", "Barbear" ]
+  },
+  {
+    "ProibidaoWord": "BATMAN",
+    "ProibidaoWords": [ "Robin", "Gotham City", "Super-her\u00f3i", "Capa", "Carro" ]
+  },
+  {
+    "ProibidaoWord": "TATUAGEM",
+    "ProibidaoWords": [ "Pele", "Tinta", "Agulha", "Desenho", "Marinheiro" ]
+  },
+  {
+    "ProibidaoWord": "AUSTR\u00c1LIA",
+    "ProibidaoWords": [ "Canguru", "Sidnei", "Coala", "Crocodilo Dundee", "Oceania" ]
+  },
+  {
+    "ProibidaoWord": "ANJO",
+    "ProibidaoWords": [ "C\u00e9u", "Diabo", "Aur\u00e9ola", "Asas", "Branco" ]
+  },
+  {
+    "ProibidaoWord": "PENEIRA",
+    "ProibidaoWords": [ "Escorredor", "Coador", "Secar", "Buracos", "Sol" ]
+  },
+  {
+    "ProibidaoWord": "LANTERNINHA",
+    "ProibidaoWords": [ "Cinema", "Cadeira", "Filme", "Iluminar", "Enxergar" ]
+  },
+  {
+    "ProibidaoWord": "L\u00c2MPADA",
+    "ProibidaoWords": [ "Rosquear", "Watts", "Eletricidade", "Luz", "Thomas Edison" ]
+  },
+  {
+    "ProibidaoWord": "CART\u00c3O DE VISITA",
+    "ProibidaoWords": [ "Neg\u00f3cios", "Nome", "Telefone", "Papel", "Endere\u00e7o" ]
+  },
+  {
+    "ProibidaoWord": "TURFE",
+    "ProibidaoWords": [ "Cavalgar", "Cavalo", "\u00c9gua", "Aposta", "J\u00f3quei" ]
+  },
+  {
+    "ProibidaoWord": "\u00d3RBITA",
+    "ProibidaoWords": [ "Espa\u00e7o", "Sat\u00e9lite", "Em volta", "C\u00edrculo", "Terra" ]
+  },
+  {
+    "ProibidaoWord": "SIMPLES",
+    "ProibidaoWords": [ "B\u00e1sico", "F\u00e1cil", "Dif\u00edcil", "Confuso", "Humilde" ]
+  },
+  {
+    "ProibidaoWord": "VOTAR",
+    "ProibidaoWords": [ "Eleger", "C\u00e9dula", "Pesquisa", "Urna", "Candidato" ]
+  },
+  {
+    "ProibidaoWord": "CHOFER",
+    "ProibidaoWords": [ "Volante", "Motorista", "Limusine", "Carro", "Uniforme" ]
+  },
+  {
+    "ProibidaoWord": "IMPOSTO",
+    "ProibidaoWords": [ "Renda", "Taxa", "Governo", "Tributo", "Pagar" ]
+  },
+  {
+    "ProibidaoWord": "VIOLINO",
+    "ProibidaoWords": [ "M\u00fasica", "Instrumento", "Corda", "Orquestra", "Queixo" ]
+  },
+  {
+    "ProibidaoWord": "RENA",
+    "ProibidaoWords": [ "Natal", "Papai Noel", "Presente", "Chamin\u00e9", "Tren\u00f3" ]
+  },
+  {
+    "ProibidaoWord": "QUADRO-NEGRO",
+    "ProibidaoWords": [ "Preto", "Lousa", "Classe", "Escola", "Escrever" ]
+  },
+  {
+    "ProibidaoWord": "CAMPAINHA",
+    "ProibidaoWords": [ "Toque", "Soar", "Bater", "Dlim-dlom", "Bot\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "DECIFRAR",
+    "ProibidaoWords": [ "Decodificar", "Interpretar", "Secreto", "Ler", "Figura" ]
+  },
+  {
+    "ProibidaoWord": "LIGEIRO",
+    "ProibidaoWords": [ "Veloz", "Depressa", "R\u00e1pido", "Apressado", "Imediato" ]
+  },
+  {
+    "ProibidaoWord": "ANTIGUIDADE",
+    "ProibidaoWords": [ "Velho", "Anci\u00e3o", "Obsoleto", "Colecionador", "Mob\u00edlia" ]
+  },
+  {
+    "ProibidaoWord": "DIAMANTE",
+    "ProibidaoWords": [ "Pedra", "Anel", "Lapidar", "J\u00f3ia", "Noivado" ]
+  },
+  {
+    "ProibidaoWord": "BATERIA",
+    "ProibidaoWords": [ "Instrumento", "Banda", "Baqueta", "Batida", "M\u00fasica" ]
+  },
+  {
+    "ProibidaoWord": "B\u00cdGAMO",
+    "ProibidaoWords": [ "Casamento", "Marido", "Mulher", "Div\u00f3rcio", "Esposa" ]
+  },
+  {
+    "ProibidaoWord": "JOVEM GUARDA",
+    "ProibidaoWords": [ "Calhambeque", "Tremend\u00e3o", "Roberto Carlos", "M\u00fasica", "Minissaia" ]
+  },
+  {
+    "ProibidaoWord": "AUDIT\u00d3RIO",
+    "ProibidaoWords": [ "Teatro", "Multid\u00e3o", "Aplauso", "Performance", "Pessoas" ]
+  },
+  {
+    "ProibidaoWord": "BEIRA-MAR",
+    "ProibidaoWords": [ "Areia", "Praia", "Quebra-mar", "Oceano", "Caminhada" ]
+  },
+  {
+    "ProibidaoWord": "RECANTO",
+    "ProibidaoWords": [ "F\u00e9rias", "Retiro", "Hotel", "Luxo", "Ficar" ]
+  },
+  {
+    "ProibidaoWord": "CONCHA",
+    "ProibidaoWords": [ "Sopa", "Mar", "Molusco", "Ac\u00fastica", "Feij\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "FRETE",
+    "ProibidaoWords": [ "Carga", "Mercadoria", "Transportar", "Produto", "Levar" ]
+  },
+  {
+    "ProibidaoWord": "PINGUE-PONGUE",
+    "ProibidaoWords": [ "Jogo", "Bolinha", "Raquete", "Mesa", "T\u00eanis" ]
+  },
+  {
+    "ProibidaoWord": "TAMPA",
+    "ProibidaoWords": [ "Abrir", "Cobrir", "Tapar", "Panela", "Fechar" ]
+  },
+  {
+    "ProibidaoWord": "BIQU\u00cdNI",
+    "ProibidaoWords": [ "Roupa", "Duas-pe\u00e7as", "Praia", "Piscina", "Banho" ]
+  },
+  {
+    "ProibidaoWord": "SUSHI",
+    "ProibidaoWords": [ "Peixe", "Cru", "Jap\u00e3o", "Sashimi", "N\u00e3o cozido" ]
+  },
+  {
+    "ProibidaoWord": "ANCI\u00c3O",
+    "ProibidaoWords": [ "Velho", "Hist\u00f3ria", "Passado", "Tempo", "Anos" ]
+  },
+  {
+    "ProibidaoWord": "ARANHA",
+    "ProibidaoWords": [ "Oito", "Perna", "Inseto", "Caranguejeira", "Teia" ]
+  },
+  {
+    "ProibidaoWord": "ENTRADA",
+    "ProibidaoWords": [ "Porta", "Dentro", "Abertura", "Sair", "Sa\u00edda" ]
+  },
+  {
+    "ProibidaoWord": "HIENA",
+    "ProibidaoWords": [ "Risada", "Animal", "Bicho", "Le\u00e3o", "Sorriso" ]
+  },
+  {
+    "ProibidaoWord": "OPINI\u00c3O",
+    "ProibidaoWords": [ "P\u00fablica", "Pesquisa", "Ponto de vista", "Pessoal", "Voc\u00ea" ]
+  },
+  {
+    "ProibidaoWord": "SOBRA",
+    "ProibidaoWords": [ "Requentar", "Ontem", "Comida", "Prato", "guardar" ]
+  },
+  {
+    "ProibidaoWord": "NEGOCIANTE",
+    "ProibidaoWords": [ "Dinheiro", "Esperto", "Vender", "Comprar", "Carro" ]
+  },
+  {
+    "ProibidaoWord": "ORELH\u00c3O",
+    "ProibidaoWords": [ "P\u00fablico", "Ligar", "Telefone", "Falar", "Rua" ]
+  },
+  {
+    "ProibidaoWord": "MAESTRO",
+    "ProibidaoWords": [ "Orquestra", "Regente", "Concerto", "Batuta", "Conduzir" ]
+  },
+  {
+    "ProibidaoWord": "ZOOL\u00d3GICO",
+    "ProibidaoWords": [ "Animais", "Jaulas", "Selvagem", "Ir", "Ver" ]
+  },
+  {
+    "ProibidaoWord": "SHOPPING CENTER",
+    "ProibidaoWords": [ "Compras", "Pra\u00e7a de alimenta\u00e7\u00e3o", "Lojas", "Cinema", "Lugar" ]
+  },
+  {
+    "ProibidaoWord": "SUOR",
+    "ProibidaoWords": [ "Sol", "Calor", "Transpirar", "Umidade", "Bra\u00e7o" ]
+  },
+  {
+    "ProibidaoWord": "PISCINA",
+    "ProibidaoWords": [ "Cloro", "Nadar", "Nata\u00e7\u00e3o", "\u00c1gua", "Mergulhar" ]
+  },
+  {
+    "ProibidaoWord": "COM\u00c9DIA",
+    "ProibidaoWords": [ "Divertido", "Piada", "Risada", "S\u00e9rio", "Trag\u00e9dia" ]
+  },
+  {
+    "ProibidaoWord": "BORBOLETA",
+    "ProibidaoWords": [ "Asa", "Mariposa", "Lagarta", "Casulo", "Voar" ]
+  },
+  {
+    "ProibidaoWord": "BEB\u00ca",
+    "ProibidaoWords": [ "Infantil", "Rec\u00e9m-nascido", "Nen\u00e9m", "Crian\u00e7a", "Gr\u00e1vida" ]
+  },
+  {
+    "ProibidaoWord": "ABELHA",
+    "ProibidaoWords": [ "Zumbido", "Colm\u00e9ia", "Picada", "Mel", "Rainha" ]
+  },
+  {
+    "ProibidaoWord": "FALSIFICA\u00c7\u00c3O",
+    "ProibidaoWords": [ "Falso", "Imita\u00e7\u00e3o", "Dinheiro", "Pirata", "Notas" ]
+  },
+  {
+    "ProibidaoWord": "SECRETO",
+    "ProibidaoWords": [ "Agente", "Sigiloso", "Confidencial", "Saber", "Ningu\u00e9m" ]
+  },
+  {
+    "ProibidaoWord": "L\u00cdRIO",
+    "ProibidaoWords": [ "Flor", "Paz", "Branco", "Alucin\u00f3geno", "Pureza" ]
+  },
+  {
+    "ProibidaoWord": "ATOR",
+    "ProibidaoWords": [ "Performance", "Estrela", "Filme", "Teatro", "Televis\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "ESTRIBO",
+    "ProibidaoWords": [ "P\u00e9", "Pe\u00e3o", "Sela", "Arreio", "Cavalo" ]
+  },
+  {
+    "ProibidaoWord": "EMBAIXADOR",
+    "ProibidaoWords": [ "Diplomata", "Na\u00e7\u00f5es Unidas", "Pa\u00eds", "Embaixada", "Estrangeiro" ]
+  },
+  {
+    "ProibidaoWord": "CARTEIRA",
+    "ProibidaoWords": [ "Documento", "Bolsa", "Dinheiro", "Cart\u00e3o de cr\u00e9dito", "Bolso" ]
+  },
+  {
+    "ProibidaoWord": "P\u00cdLULA",
+    "ProibidaoWords": [ "Comprimido", "Rem\u00e9dio", "C\u00e1psula", "Engolir", "Anticoncepcional" ]
+  },
+  {
+    "ProibidaoWord": "INOCENTE",
+    "ProibidaoWords": [ "Culpado", "Sem culpa", "Veredicto", "J\u00fari", "Ing\u00eanuo" ]
+  },
+  {
+    "ProibidaoWord": "J\u00daRI",
+    "ProibidaoWords": [ "Julgamento", "Culpado", "Inocente", "Juiz", "Veredicto" ]
+  },
+  {
+    "ProibidaoWord": "TOQUE DE RECOLHER",
+    "ProibidaoWords": [ "Data", "Hora", "Tempo", "Dentro", "Casa" ]
+  },
+  {
+    "ProibidaoWord": "PAN\u00c7A",
+    "ProibidaoWords": [ "Abd\u00f4men", "Umbigo", "Abdominal", "Barriga", "Ventre" ]
+  },
+  {
+    "ProibidaoWord": "UNHA",
+    "ProibidaoWords": [ "Polir", "Manicure", "Dedo do p\u00e9", "Cut\u00edcula", "Dedo" ]
+  },
+  {
+    "ProibidaoWord": "TROMBADINHA",
+    "ProibidaoWords": [ "Ladr\u00e3o", "Carteira", "Multid\u00e3o", "Roubar", "Pegar" ]
+  },
+  {
+    "ProibidaoWord": "AP\u00caNDICE",
+    "ProibidaoWords": [ "\u00cdndice", "Livro", "Final", "Cicatriz", "Estomago" ]
+  },
+  {
+    "ProibidaoWord": "PNEUMONIA",
+    "ProibidaoWords": [ "Doen\u00e7a", "Pulm\u00e3o", "Indisposi\u00e7\u00e3o", "Pegar", "Frio" ]
+  },
+  {
+    "ProibidaoWord": "D\u00c1LMATA",
+    "ProibidaoWords": [ "Mancha", "Cachorro", "101", "Ra\u00e7a", "Disney" ]
+  },
+  {
+    "ProibidaoWord": "BOLSA DE VALORES",
+    "ProibidaoWords": [ "Queda", "Wall Street", "Dow Jones", "A\u00e7\u00f5es", "Alta" ]
+  },
+  {
+    "ProibidaoWord": "ENFERMEIRA",
+    "ProibidaoWords": [ "Hospital", "Branco", "Diplomada", "M\u00e9dico", "Rem\u00e9dio" ]
+  },
+  {
+    "ProibidaoWord": "UNIC\u00d3RNIO",
+    "ProibidaoWords": [ "Cavalo", "M\u00edstico", "Um", "Chifre", "Conto de fadas" ]
+  },
+  {
+    "ProibidaoWord": "HER\u00d3I",
+    "ProibidaoWords": [ "Admirar", "Salvar", "Esporte", "Vida", "Corajoso" ]
+  },
+  {
+    "ProibidaoWord": "TROMBA",
+    "ProibidaoWords": [ "Elefante", "Emburrado", "Nariz", "Animal", "Comprido" ]
+  },
+  {
+    "ProibidaoWord": "GOL",
+    "ProibidaoWords": [ "Bola", "Futebol", "De placa", "Placar", "Rede" ]
+  },
+  {
+    "ProibidaoWord": "C\u00c1QUI",
+    "ProibidaoWords": [ "Tecido", "Material", "Cru", "Cor", "Uniforme" ]
+  },
+  {
+    "ProibidaoWord": "CONTADOR",
+    "ProibidaoWords": [ "Declara\u00e7\u00e3o", "Renda", "Contabilidade", "Empresa", "N\u00fameros" ]
+  },
+  {
+    "ProibidaoWord": "PIADO",
+    "ProibidaoWords": [ "P\u00e1ssaro", "Pio", "Chiar", "Canto", "Barulho" ]
+  },
+  {
+    "ProibidaoWord": "OCEANO ATL\u00c2NTICO",
+    "ProibidaoWords": [ "Mar", "Pac\u00edfico", "\u00cdndico", "\u00c1gua", "Costa" ]
+  },
+  {
+    "ProibidaoWord": "TROF\u00c9U",
+    "ProibidaoWords": [ "Ta\u00e7a", "Campeonato", "Ganhar", "Esportes", "Recompensa" ]
+  },
+  {
+    "ProibidaoWord": "AZAR",
+    "ProibidaoWords": [ "Feiticeira", "Maldi\u00e7\u00e3o", "Feiti\u00e7o", "Ruim", "Sorte" ]
+  },
+  {
+    "ProibidaoWord": "PERUCA",
+    "ProibidaoWords": [ "Careca", "Aplique", "Implante", "Cabelo", "Cabe\u00e7a" ]
+  },
+  {
+    "ProibidaoWord": "CARPETE",
+    "ProibidaoWords": [ "Ch\u00e3o", "Tapete", "Parede", "Aspirador", "Casa" ]
+  },
+  {
+    "ProibidaoWord": "CANIVETE",
+    "ProibidaoWords": [ "Su\u00ed\u00e7o", "Escoteiro", "L\u00e2mina", "Cal\u00e7a", "Cortar" ]
+  },
+  {
+    "ProibidaoWord": "T\u00c1XI",
+    "ProibidaoWords": [ "Corrida", "Cidade", "Carro", "Dinheiro", "Chamar" ]
+  },
+  {
+    "ProibidaoWord": "GARRAFA T\u00c9RMICA",
+    "ProibidaoWords": [ "Garrafa", "Quente", "Frio", "Caf\u00e9", "Bebida" ]
+  },
+  {
+    "ProibidaoWord": "JORNAL",
+    "ProibidaoWords": [ "Impress\u00e3o", "Imprensa", "Di\u00e1rio", "Rep\u00f3rteres", "Ler" ]
+  },
+  {
+    "ProibidaoWord": "RUGA",
+    "ProibidaoWords": [ "Prega", "Linha", "Velho", "Pele", "P\u00e9-de-galinha" ]
+  },
+  {
+    "ProibidaoWord": "URSO DE PEL\u00daCIA",
+    "ProibidaoWords": [ "Brinquedo", "Fofo", "Felpudo", "Dormir", "Animal" ]
+  },
+  {
+    "ProibidaoWord": "BANDEIRA",
+    "ProibidaoWords": [ "Verde", "Amarelo", "Pa\u00eds", "Time", "agitar" ]
+  },
+  {
+    "ProibidaoWord": "CR\u00cdTICO",
+    "ProibidaoWords": [ "Filme", "Julgar", "Examinador", "Escrever", "opini\u00e3o" ]
+  },
+  {
+    "ProibidaoWord": "MONITOR",
+    "ProibidaoWords": [ "Acompanhante", "Supervisor", "Adulto", "Escola", "Ir" ]
+  },
+  {
+    "ProibidaoWord": "ESPI\u00c3O",
+    "ProibidaoWords": [ "Agente", "Informa\u00e7\u00f5es", "Secreto", "James Bond", "Disfarce" ]
+  }
+]
